@@ -1,6 +1,6 @@
 {
-  "version": 260,
-  "maj": "2026-09-15T19:59:57.587Z",
+  "version": 261,
+  "maj": "2026-09-15T20:00:11.816Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -600,7 +600,7 @@
       "stock": null
     },
     "victorias-secret-gommage-corps-feel-refreshed-blue-jasmine-water-lily": {
-      "prix": 10000,
+      "prix": 15000,
       "visuels": [
         "/media/produits/victorias-secret-gommage-corps-feel-refreshed-blue-jasmine-water-lily-1.jpg",
         "/media/produits/victorias-secret-gommage-corps-feel-refreshed-blue-jasmine-water-lily-2.jpg",
@@ -609,7 +609,9 @@
       ],
       "masque": false,
       "nouveaute": false,
-      "vedette": true
+      "vedette": true,
+      "prixBarre": null,
+      "stock": null
     },
     "medicube-collagen-night-wrapping-mask": {
       "prix": 10000,
