@@ -1,6 +1,6 @@
 {
-  "version": 178,
-  "maj": "2026-09-15T19:03:23.574Z",
+  "version": 179,
+  "maj": "2026-09-15T19:06:44.515Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -1418,6 +1418,17 @@
       "visuels": [
         "/media/produits/vanilla-dream-butta-drop-2.jpg",
         "/media/produits/vanilla-dream-butta-drop-1.jpg"
+      ],
+      "masque": false,
+      "nouveaute": false,
+      "vedette": false
+    },
+    "debardeur-blanc-et-short-rose": {
+      "prix": 12000,
+      "prixBarre": null,
+      "stock": null,
+      "visuels": [
+        "/media/produits/debardeur-blanc-et-short-rose-1.jpg"
       ],
       "masque": false,
       "nouveaute": false,
