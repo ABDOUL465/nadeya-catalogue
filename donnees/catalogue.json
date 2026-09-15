@@ -1,6 +1,6 @@
 {
-  "version": 240,
-  "maj": "2026-09-15T19:37:01.149Z",
+  "version": 241,
+  "maj": "2026-09-15T19:38:36.687Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -660,7 +660,7 @@
       "stock": null
     },
     "fenty-killawatt-highlighter-duo-ginger-binge-moscow-mule": {
-      "prix": 10000,
+      "prix": 22000,
       "visuels": [
         "/media/produits/fenty-killawatt-highlighter-duo-ginger-binge-moscow-mule-1.jpg",
         "/media/produits/fenty-killawatt-highlighter-duo-ginger-binge-moscow-mule-2.jpg",
@@ -671,7 +671,9 @@
       ],
       "masque": false,
       "nouveaute": false,
-      "vedette": true
+      "vedette": true,
+      "prixBarre": null,
+      "stock": null
     },
     "midnight-bloom": {
       "prix": 15000,
