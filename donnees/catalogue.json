@@ -1,6 +1,6 @@
 {
-  "version": 237,
-  "maj": "2026-09-15T19:36:14.971Z",
+  "version": 238,
+  "maj": "2026-09-15T19:36:29.476Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -1882,6 +1882,23 @@
         "/media/produits/fenty-sun-stalkr-souffle-n-07-coffee-toffee-4.jpg",
         "/media/produits/fenty-sun-stalkr-souffle-n-07-coffee-toffee-5.jpg",
         "/media/produits/fenty-sun-stalkr-souffle-n-07-coffee-toffee-6.jpg"
+      ],
+      "masque": false,
+      "nouveaute": false,
+      "vedette": false
+    },
+    "fenty-sun-stalkr-souffle-n-08-hot-fudge": {
+      "prix": 35000,
+      "prixBarre": null,
+      "stock": null,
+      "visuels": [
+        "/media/produits/fenty-sun-stalkr-souffle-n-08-hot-fudge-1.jpg",
+        "/media/produits/fenty-sun-stalkr-souffle-n-08-hot-fudge-2.jpg",
+        "/media/produits/fenty-sun-stalkr-souffle-n-08-hot-fudge-3.jpg",
+        "/media/produits/fenty-sun-stalkr-souffle-n-08-hot-fudge-4.jpg",
+        "/media/produits/fenty-sun-stalkr-souffle-n-08-hot-fudge-5.jpg",
+        "/media/produits/fenty-sun-stalkr-souffle-n-08-hot-fudge-6.jpg",
+        "/media/produits/fenty-sun-stalkr-souffle-n-08-hot-fudge-7.jpg"
       ],
       "masque": false,
       "nouveaute": false,
