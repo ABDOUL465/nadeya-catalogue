@@ -1,6 +1,6 @@
 {
-  "version": 253,
-  "maj": "2026-09-15T19:52:47.701Z",
+  "version": 254,
+  "maj": "2026-09-15T19:53:16.365Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -1998,6 +1998,24 @@
         "/media/produits/fenty-killawatt-highlighter-n-05-wattabrat-4.jpg",
         "/media/produits/fenty-killawatt-highlighter-n-05-wattabrat-5.jpg",
         "/media/produits/fenty-killawatt-highlighter-n-05-wattabrat-6.jpg"
+      ],
+      "masque": false,
+      "nouveaute": false,
+      "vedette": false
+    },
+    "charlotte-tilbury-airbrush-flawless-setting-spray": {
+      "prix": 35000,
+      "prixBarre": null,
+      "stock": null,
+      "visuels": [
+        "/media/produits/charlotte-tilbury-airbrush-flawless-setting-spray-1.jpg",
+        "/media/produits/charlotte-tilbury-airbrush-flawless-setting-spray-2.jpg",
+        "/media/produits/charlotte-tilbury-airbrush-flawless-setting-spray-3.jpg",
+        "/media/produits/charlotte-tilbury-airbrush-flawless-setting-spray-4.jpg",
+        "/media/produits/charlotte-tilbury-airbrush-flawless-setting-spray-5.jpg",
+        "/media/produits/charlotte-tilbury-airbrush-flawless-setting-spray-6.jpg",
+        "/media/produits/charlotte-tilbury-airbrush-flawless-setting-spray-7.jpg",
+        "/media/produits/charlotte-tilbury-airbrush-flawless-setting-spray-8.jpg"
       ],
       "masque": false,
       "nouveaute": false,
