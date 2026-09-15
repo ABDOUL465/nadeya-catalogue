@@ -1,6 +1,6 @@
 {
-  "version": 94,
-  "maj": "2026-09-15T18:19:58.789Z",
+  "version": 95,
+  "maj": "2026-09-15T18:20:39.304Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -388,10 +388,15 @@
       ]
     },
     "bougie-a-thousand-wishes": {
-      "prix": 10000,
+      "prix": 18000,
       "masque": false,
       "nouveaute": true,
-      "vedette": true
+      "vedette": true,
+      "prixBarre": null,
+      "stock": null,
+      "visuels": [
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/bougie-a-thousand-wishes-1789496432596-8zzyjp.jpg"
+      ]
     },
     "ensemble-bordeaux-brassiere-et-short": {
       "prix": 10000,
