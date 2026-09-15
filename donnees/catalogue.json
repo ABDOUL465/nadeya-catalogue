@@ -1,6 +1,6 @@
 {
-  "version": 196,
-  "maj": "2026-09-15T19:12:36.615Z",
+  "version": 197,
+  "maj": "2026-09-15T19:13:09.354Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -1591,6 +1591,17 @@
       "masque": false,
       "nouveaute": false,
       "vedette": false
+    },
+    "ensemble-carreaux-rose": {
+      "prix": 19000,
+      "prixBarre": 21000,
+      "stock": null,
+      "visuels": [
+        "/media/produits/ensemble-carreaux-rose-1.jpg"
+      ],
+      "masque": false,
+      "nouveaute": false,
+      "vedette": true
     }
   },
   "ajouts": []
