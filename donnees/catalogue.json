@@ -1,6 +1,6 @@
 {
-  "version": 213,
-  "maj": "2026-09-15T19:20:29.652Z",
+  "version": 214,
+  "maj": "2026-09-15T19:21:40.579Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -559,7 +559,7 @@
       "stock": null
     },
     "fenty-gloss-bomb-cream-cookie-jam": {
-      "prix": 10000,
+      "prix": 20000,
       "visuels": [
         "/media/produits/fenty-gloss-bomb-cream-cookie-jam-1.jpg",
         "/media/produits/fenty-gloss-bomb-cream-cookie-jam-2.jpg",
@@ -572,7 +572,9 @@
       ],
       "masque": false,
       "nouveaute": true,
-      "vedette": true
+      "vedette": true,
+      "prixBarre": null,
+      "stock": null
     },
     "victorias-secret-gommage-corps-feel-refreshed-blue-jasmine-water-lily": {
       "prix": 10000,
