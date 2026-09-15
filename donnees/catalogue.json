@@ -1,6 +1,6 @@
 {
-  "version": 210,
-  "maj": "2026-09-15T19:19:04.973Z",
+  "version": 211,
+  "maj": "2026-09-15T19:19:39.850Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -305,8 +305,9 @@
       "vedette": false
     },
     "kylie-skin-lip-butter-pomegranate": {
-      "prix": 10000,
+      "prix": 20000,
       "visuels": [
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/kylie-skin-lip-butter-pomegranate-1789499972564-5o2p11.jpg",
         "/media/produits/kylie-skin-lip-butter-pomegranate-1.jpg",
         "/media/produits/kylie-skin-lip-butter-pomegranate-3.jpg",
         "/media/produits/kylie-skin-lip-butter-pomegranate-4.jpg",
@@ -314,7 +315,9 @@
       ],
       "masque": false,
       "nouveaute": false,
-      "vedette": false
+      "vedette": false,
+      "prixBarre": null,
+      "stock": null
     },
     "fenty-skin-treatz-lip-oil-coconut": {
       "prix": 10000,
