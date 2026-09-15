@@ -1,6 +1,6 @@
 {
-  "version": 284,
-  "maj": "2026-09-15T23:31:14.144Z",
+  "version": 285,
+  "maj": "2026-09-15T23:31:36.229Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -1386,7 +1386,7 @@
       "vedette": false
     },
     "glowmotions-copacabana-bronze": {
-      "prix": 65000,
+      "prix": 35000,
       "prixBarre": null,
       "stock": null,
       "visuels": [
