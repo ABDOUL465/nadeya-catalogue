@@ -1,6 +1,6 @@
 {
-  "version": 195,
-  "maj": "2026-09-15T19:12:22.363Z",
+  "version": 196,
+  "maj": "2026-09-15T19:12:36.615Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -1576,6 +1576,17 @@
       "stock": null,
       "visuels": [
         "/media/produits/caraco-croise-noir-dentelle-1.jpg"
+      ],
+      "masque": false,
+      "nouveaute": false,
+      "vedette": false
+    },
+    "caraco-et-short-rouge-cotele": {
+      "prix": 12000,
+      "prixBarre": null,
+      "stock": null,
+      "visuels": [
+        "/media/produits/caraco-et-short-rouge-cotele-1.jpg"
       ],
       "masque": false,
       "nouveaute": false,
