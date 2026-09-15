@@ -1,6 +1,6 @@
 {
-  "version": 169,
-  "maj": "2026-09-15T19:00:18.723Z",
+  "version": 170,
+  "maj": "2026-09-15T19:00:36.697Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -1322,6 +1322,18 @@
       "visuels": [
         "/media/produits/cool-bright-pink-by-victorias-secret-2.jpg",
         "/media/produits/cool-bright-pink-by-victorias-secret-1.jpg"
+      ],
+      "masque": false,
+      "nouveaute": false,
+      "vedette": false
+    },
+    "glowmotions-copacabana-bronze": {
+      "prix": 65000,
+      "prixBarre": null,
+      "stock": null,
+      "visuels": [
+        "/media/produits/glowmotions-copacabana-bronze-2.jpg",
+        "/media/produits/glowmotions-copacabana-bronze-1.jpg"
       ],
       "masque": false,
       "nouveaute": false,
