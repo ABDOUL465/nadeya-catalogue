@@ -1,6 +1,6 @@
 {
-  "version": 244,
-  "maj": "2026-09-15T19:40:38.652Z",
+  "version": 245,
+  "maj": "2026-09-15T19:41:03.515Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -1750,7 +1750,7 @@
       "vedette": false
     },
     "fenty-skin-treatz-lip-oil-barbados-cherry": {
-      "prix": 20000,
+      "prix": 21000,
       "prixBarre": null,
       "stock": null,
       "visuels": [
