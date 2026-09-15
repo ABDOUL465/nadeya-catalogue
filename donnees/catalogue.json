@@ -1,6 +1,6 @@
 {
-  "version": 98,
-  "maj": "2026-09-15T18:23:12.088Z",
+  "version": 99,
+  "maj": "2026-09-15T18:29:03.544Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -56,11 +56,14 @@
     "sun-splashed-warm-cozy-pink-by-victorias-secret": {
       "prix": 10000,
       "visuels": [
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/sun-splashed-warm-cozy-pink-by-victorias-secret-1789496938642-ia2b0d.jpg",
         "/media/produits/sun-splashed-warm-cozy-pink-by-victorias-secret-1.jpg"
       ],
       "masque": false,
       "nouveaute": false,
-      "vedette": false
+      "vedette": false,
+      "prixBarre": null,
+      "stock": null
     },
     "fenty-skin-butta-drop-whipped-oil-vanilla-dream": {
       "prix": 10000,
