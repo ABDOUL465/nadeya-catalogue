@@ -1,6 +1,6 @@
 {
-  "version": 211,
-  "maj": "2026-09-15T19:19:39.850Z",
+  "version": 212,
+  "maj": "2026-09-15T19:20:05.129Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -347,8 +347,9 @@
       "vedette": false
     },
     "kylie-skin-lip-butter-toasted-marshmallow": {
-      "prix": 10000,
+      "prix": 20000,
       "visuels": [
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/kylie-skin-lip-butter-toasted-marshmallow-1789499995700-y79ppb.jpg",
         "/media/produits/kylie-skin-lip-butter-toasted-marshmallow-1.jpg",
         "/media/produits/kylie-skin-lip-butter-toasted-marshmallow-3.jpg",
         "/media/produits/kylie-skin-lip-butter-toasted-marshmallow-4.jpg",
@@ -357,7 +358,9 @@
       ],
       "masque": false,
       "nouveaute": false,
-      "vedette": false
+      "vedette": false,
+      "prixBarre": null,
+      "stock": null
     },
     "kylie-skin-lip-butter-vanilla-caramel": {
       "prix": 10000,
