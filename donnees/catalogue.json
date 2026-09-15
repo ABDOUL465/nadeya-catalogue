@@ -1,6 +1,6 @@
 {
-  "version": 81,
-  "maj": "2026-09-15T12:42:37.733Z",
+  "version": 82,
+  "maj": "2026-09-15T12:46:04.841Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 99992,
@@ -120,14 +120,17 @@
     "madagascar-centella-watergel-mask": {
       "prix": 10000,
       "visuels": [
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/madagascar-centella-watergel-mask-1789476331418-98vpra.jpg",
+        "/media/produits/madagascar-centella-watergel-mask-4.jpg",
         "/media/produits/madagascar-centella-watergel-mask-3.jpg",
         "/media/produits/madagascar-centella-watergel-mask-6.jpg",
-        "/media/produits/madagascar-centella-watergel-mask-4.jpg",
         "/media/produits/madagascar-centella-watergel-mask-5.jpg"
       ],
       "masque": false,
       "nouveaute": false,
-      "vedette": false
+      "vedette": false,
+      "prixBarre": null,
+      "stock": null
     },
     "beauty-of-joseon-gel-nettoyant-prune": {
       "prix": 10000,
