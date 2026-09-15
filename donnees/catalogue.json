@@ -1,6 +1,6 @@
 {
-  "version": 282,
-  "maj": "2026-09-15T23:30:39.368Z",
+  "version": 283,
+  "maj": "2026-09-15T23:30:55.600Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -516,7 +516,7 @@
       "stock": null
     },
     "rare-eau-de-parfum": {
-      "prix": 85000,
+      "prix": 58000,
       "visuels": [
         "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/rare-eau-de-parfum-1789496136827-5pfmqg.jpg",
         "/media/produits/rare-eau-de-parfum-1.jpg"
