@@ -1,6 +1,6 @@
 {
-  "version": 140,
-  "maj": "2026-09-15T18:51:29.676Z",
+  "version": 141,
+  "maj": "2026-09-15T18:51:42.036Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -1033,6 +1033,18 @@
       "visuels": [
         "/media/produits/glazed-petals-berries-brume-2.jpg",
         "/media/produits/glazed-petals-berries-brume-1.jpg"
+      ],
+      "masque": false,
+      "nouveaute": false,
+      "vedette": false
+    },
+    "canyon-blooms-brume": {
+      "prix": 15000,
+      "prixBarre": null,
+      "stock": null,
+      "visuels": [
+        "/media/produits/canyon-blooms-brume-2.jpg",
+        "/media/produits/canyon-blooms-brume-1.jpg"
       ],
       "masque": false,
       "nouveaute": false,
