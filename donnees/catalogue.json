@@ -1,6 +1,6 @@
 {
-  "version": 83,
-  "maj": "2026-09-15T12:46:58.200Z",
+  "version": 84,
+  "maj": "2026-09-15T12:48:03.895Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 99992,
@@ -148,15 +148,18 @@
     "beauty-of-joseon-masque-haricots-rouges": {
       "prix": 10000,
       "visuels": [
-        "/media/produits/beauty-of-joseon-masque-haricots-rouges-1.jpg",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/beauty-of-joseon-masque-haricots-rouges-1789476460337-fp1jut.jpg",
         "/media/produits/beauty-of-joseon-masque-haricots-rouges-2.jpg",
         "/media/produits/beauty-of-joseon-masque-haricots-rouges-3.jpg",
         "/media/produits/beauty-of-joseon-masque-haricots-rouges-4.jpg",
-        "/media/produits/beauty-of-joseon-masque-haricots-rouges-5.jpg"
+        "/media/produits/beauty-of-joseon-masque-haricots-rouges-5.jpg",
+        "/media/produits/beauty-of-joseon-masque-haricots-rouges-1.jpg"
       ],
       "masque": false,
       "nouveaute": false,
-      "vedette": false
+      "vedette": false,
+      "prixBarre": null,
+      "stock": null
     },
     "beauty-of-joseon-serum-the-vert-panthenol": {
       "prix": 10000,
