@@ -1,6 +1,6 @@
 {
-  "version": 236,
-  "maj": "2026-09-15T19:35:51.024Z",
+  "version": 237,
+  "maj": "2026-09-15T19:36:14.971Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -1866,6 +1866,22 @@
         "/media/produits/too-faced-sun-bunny-bronzer-sunset-bunny-2.jpg",
         "/media/produits/too-faced-sun-bunny-bronzer-sunset-bunny-3.jpg",
         "/media/produits/too-faced-sun-bunny-bronzer-sunset-bunny-4.jpg"
+      ],
+      "masque": false,
+      "nouveaute": false,
+      "vedette": false
+    },
+    "fenty-sun-stalkr-souffle-n-07-coffee-toffee": {
+      "prix": 35000,
+      "prixBarre": null,
+      "stock": null,
+      "visuels": [
+        "/media/produits/fenty-sun-stalkr-souffle-n-07-coffee-toffee-1.jpg",
+        "/media/produits/fenty-sun-stalkr-souffle-n-07-coffee-toffee-2.jpg",
+        "/media/produits/fenty-sun-stalkr-souffle-n-07-coffee-toffee-3.jpg",
+        "/media/produits/fenty-sun-stalkr-souffle-n-07-coffee-toffee-4.jpg",
+        "/media/produits/fenty-sun-stalkr-souffle-n-07-coffee-toffee-5.jpg",
+        "/media/produits/fenty-sun-stalkr-souffle-n-07-coffee-toffee-6.jpg"
       ],
       "masque": false,
       "nouveaute": false,
