@@ -1,6 +1,6 @@
 {
-  "version": 207,
-  "maj": "2026-09-15T19:17:05.156Z",
+  "version": 208,
+  "maj": "2026-09-15T19:18:17.449Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -208,7 +208,7 @@
     "kylie-skin-lip-butter-butter-cake": {
       "prix": 10000,
       "visuels": [
-        "/media/produits/kylie-skin-lip-butter-butter-cake-1.jpg",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/kylie-skin-lip-butter-butter-cake-1789499884715-sgxvxa.jpg",
         "/media/produits/kylie-skin-lip-butter-butter-cake-2.jpg",
         "/media/produits/kylie-skin-lip-butter-butter-cake-3.jpg",
         "/media/produits/kylie-skin-lip-butter-butter-cake-4.jpg",
@@ -216,7 +216,9 @@
       ],
       "masque": false,
       "nouveaute": false,
-      "vedette": false
+      "vedette": false,
+      "prixBarre": null,
+      "stock": null
     },
     "elf-glow-reviver-lip-oil-jam-session": {
       "prix": 10000,
