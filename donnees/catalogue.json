@@ -1,6 +1,6 @@
 {
-  "version": 128,
-  "maj": "2026-09-15T18:49:17.418Z",
+  "version": 129,
+  "maj": "2026-09-15T18:49:26.404Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -913,6 +913,18 @@
       "visuels": [
         "/media/produits/coastal-blooms-brume-2.jpg",
         "/media/produits/coastal-blooms-brume-1.jpg"
+      ],
+      "masque": false,
+      "nouveaute": false,
+      "vedette": false
+    },
+    "coconut-passion-brume": {
+      "prix": 15000,
+      "prixBarre": null,
+      "stock": null,
+      "visuels": [
+        "/media/produits/coconut-passion-brume-2.jpg",
+        "/media/produits/coconut-passion-brume-1.jpg"
       ],
       "masque": false,
       "nouveaute": false,
