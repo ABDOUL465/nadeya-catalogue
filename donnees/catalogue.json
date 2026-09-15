@@ -1,6 +1,6 @@
 {
-  "version": 184,
-  "maj": "2026-09-15T19:08:19.151Z",
+  "version": 185,
+  "maj": "2026-09-15T19:08:47.095Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -1479,6 +1479,17 @@
       "masque": false,
       "nouveaute": false,
       "vedette": true
+    },
+    "caraco-et-short-bordeaux": {
+      "prix": 13000,
+      "prixBarre": null,
+      "stock": null,
+      "visuels": [
+        "/media/produits/caraco-et-short-bordeaux-1.jpg"
+      ],
+      "masque": false,
+      "nouveaute": false,
+      "vedette": false
     }
   },
   "ajouts": []
