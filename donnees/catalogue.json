@@ -1,6 +1,6 @@
 {
-  "version": 117,
-  "maj": "2026-09-15T18:47:33.166Z",
+  "version": 118,
+  "maj": "2026-09-15T18:47:41.769Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -781,6 +781,18 @@
       "visuels": [
         "/media/produits/seashell-shimmer-2.jpg",
         "/media/produits/seashell-shimmer-1.jpg"
+      ],
+      "masque": false,
+      "nouveaute": false,
+      "vedette": false
+    },
+    "fresh-musk": {
+      "prix": 15000,
+      "prixBarre": null,
+      "stock": null,
+      "visuels": [
+        "/media/produits/fresh-musk-2.jpg",
+        "/media/produits/fresh-musk-1.jpg"
       ],
       "masque": false,
       "nouveaute": false,
