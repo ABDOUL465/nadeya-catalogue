@@ -1,6 +1,6 @@
 {
-  "version": 267,
-  "maj": "2026-09-15T20:04:23.320Z",
+  "version": 268,
+  "maj": "2026-09-15T20:05:38.185Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -2082,6 +2082,19 @@
         "/media/produits/victorias-secret-gommage-corps-feel-calm-coconut-milk-rose-2.jpg",
         "/media/produits/victorias-secret-gommage-corps-feel-calm-coconut-milk-rose-3.jpg",
         "/media/produits/victorias-secret-gommage-corps-feel-calm-coconut-milk-rose-4.jpg"
+      ],
+      "masque": false,
+      "nouveaute": false,
+      "vedette": false
+    },
+    "beauty-of-joseon-tonique-prune-verte": {
+      "prix": 11000,
+      "prixBarre": null,
+      "stock": null,
+      "visuels": [
+        "/media/produits/beauty-of-joseon-tonique-prune-verte-1.jpg",
+        "/media/produits/beauty-of-joseon-tonique-prune-verte-2.jpg",
+        "/media/produits/beauty-of-joseon-tonique-prune-verte-3.jpg"
       ],
       "masque": false,
       "nouveaute": false,
