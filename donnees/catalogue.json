@@ -1,6 +1,6 @@
 {
-  "version": 95,
-  "maj": "2026-09-15T18:20:39.304Z",
+  "version": 96,
+  "maj": "2026-09-15T18:21:29.035Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -18,12 +18,14 @@
       "prix": 10000,
       "prixBarre": 15000,
       "visuels": [
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/glowmotions-carnaval-queen-1789496477496-wykj0e.jpg",
         "/media/produits/glowmotions-carnaval-queen-1.jpg",
         "/media/produits/glowmotions-carnaval-queen-2.jpg"
       ],
       "masque": false,
       "nouveaute": false,
-      "vedette": true
+      "vedette": true,
+      "stock": null
     },
     "sun-splashed-fresh-clean-pink-by-victorias-secret": {
       "prix": 10000,
