@@ -1,6 +1,6 @@
 {
-  "version": 218,
-  "maj": "2026-09-15T19:25:09.620Z",
+  "version": 219,
+  "maj": "2026-09-15T19:25:59.812Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -340,6 +340,7 @@
     "elf-glow-reviver-lip-oil-glimmer-princess-cut": {
       "prix": 10000,
       "visuels": [
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/elf-glow-reviver-lip-oil-glimmer-princess-cut-1789500347059-fu6w10.jpg",
         "/media/produits/elf-glow-reviver-lip-oil-glimmer-princess-cut-1.jpg",
         "/media/produits/elf-glow-reviver-lip-oil-glimmer-princess-cut-2.jpg",
         "/media/produits/elf-glow-reviver-lip-oil-glimmer-princess-cut-5.jpg",
@@ -349,7 +350,9 @@
       ],
       "masque": false,
       "nouveaute": false,
-      "vedette": false
+      "vedette": false,
+      "prixBarre": null,
+      "stock": null
     },
     "kylie-skin-lip-butter-toasted-marshmallow": {
       "prix": 20000,
