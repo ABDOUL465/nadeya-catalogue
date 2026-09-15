@@ -1,6 +1,6 @@
 {
-  "version": 209,
-  "maj": "2026-09-15T19:18:42.723Z",
+  "version": 210,
+  "maj": "2026-09-15T19:19:04.973Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -249,8 +249,9 @@
       "vedette": false
     },
     "kylie-skin-lip-butter-peach-mango": {
-      "prix": 10000,
+      "prix": 20000,
       "visuels": [
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/kylie-skin-lip-butter-peach-mango-1789499937149-94d61m.jpg",
         "/media/produits/kylie-skin-lip-butter-peach-mango-1.jpg",
         "/media/produits/kylie-skin-lip-butter-peach-mango-3.jpg",
         "/media/produits/kylie-skin-lip-butter-peach-mango-4.jpg",
@@ -258,7 +259,9 @@
       ],
       "masque": false,
       "nouveaute": false,
-      "vedette": false
+      "vedette": false,
+      "prixBarre": null,
+      "stock": null
     },
     "fenty-skin-treatz-lip-oil-black-cherry": {
       "prix": 10000,
