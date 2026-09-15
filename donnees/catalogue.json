@@ -1,6 +1,6 @@
 {
-  "version": 152,
-  "maj": "2026-09-15T18:54:31.785Z",
+  "version": 153,
+  "maj": "2026-09-15T18:54:44.906Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -1165,6 +1165,18 @@
       "visuels": [
         "/media/produits/tidal-shimmer-2.jpg",
         "/media/produits/tidal-shimmer-1.jpg"
+      ],
+      "masque": false,
+      "nouveaute": false,
+      "vedette": false
+    },
+    "bikini-shimmer": {
+      "prix": 15000,
+      "prixBarre": null,
+      "stock": null,
+      "visuels": [
+        "/media/produits/bikini-shimmer-2.jpg",
+        "/media/produits/bikini-shimmer-1.jpg"
       ],
       "masque": false,
       "nouveaute": false,
