@@ -1,6 +1,6 @@
 {
-  "version": 89,
-  "maj": "2026-09-15T18:15:41.061Z",
+  "version": 90,
+  "maj": "2026-09-15T18:16:53.542Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -479,12 +479,15 @@
     "pure-seduction-brume": {
       "prix": 10000,
       "visuels": [
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/pure-seduction-brume-1789496208133-6cu703.jpg",
         "/media/produits/pure-seduction-brume-1.jpg",
         "/media/produits/pure-seduction-brume-2.jpg"
       ],
       "masque": false,
       "nouveaute": false,
-      "vedette": false
+      "vedette": false,
+      "prixBarre": null,
+      "stock": null
     },
     "velvet-petals-brume": {
       "prix": 10000,
