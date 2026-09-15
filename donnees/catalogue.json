@@ -1,6 +1,6 @@
 {
-  "version": 104,
-  "maj": "2026-09-15T18:44:16.762Z",
+  "version": 105,
+  "maj": "2026-09-15T18:44:31.042Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -645,6 +645,18 @@
       "visuels": [
         "/media/produits/coconut-passion-2.jpg",
         "/media/produits/coconut-passion-1.jpg"
+      ],
+      "masque": false,
+      "nouveaute": false,
+      "vedette": false
+    },
+    "pure-seduction": {
+      "prix": 15000,
+      "prixBarre": null,
+      "stock": null,
+      "visuels": [
+        "/media/produits/pure-seduction-2.jpg",
+        "/media/produits/pure-seduction-1.jpg"
       ],
       "masque": false,
       "nouveaute": false,
