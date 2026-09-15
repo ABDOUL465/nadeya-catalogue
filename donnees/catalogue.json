@@ -1,6 +1,6 @@
 {
-  "version": 192,
-  "maj": "2026-09-15T19:11:38.500Z",
+  "version": 193,
+  "maj": "2026-09-15T19:11:56.915Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -1558,6 +1558,17 @@
       "masque": false,
       "nouveaute": false,
       "vedette": false
+    },
+    "caraco-et-short-noir-dentelle": {
+      "prix": 10000,
+      "prixBarre": null,
+      "stock": null,
+      "visuels": [
+        "/media/produits/caraco-et-short-noir-dentelle-1.jpg"
+      ],
+      "masque": false,
+      "nouveaute": false,
+      "vedette": true
     }
   },
   "ajouts": []
