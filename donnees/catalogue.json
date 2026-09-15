@@ -1,6 +1,6 @@
 {
-  "version": 278,
-  "maj": "2026-09-15T20:11:04.549Z",
+  "version": 279,
+  "maj": "2026-09-15T20:11:26.133Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -166,7 +166,7 @@
       "stock": null
     },
     "beauty-of-joseon-masque-haricots-rouges": {
-      "prix": 10000,
+      "prix": 13000,
       "visuels": [
         "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/beauty-of-joseon-masque-haricots-rouges-1789476460337-fp1jut.jpg",
         "/media/produits/beauty-of-joseon-masque-haricots-rouges-2.jpg",
