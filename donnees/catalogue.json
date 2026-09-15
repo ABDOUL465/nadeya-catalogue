@@ -1,6 +1,6 @@
 {
-  "version": 259,
-  "maj": "2026-09-15T19:59:41.074Z",
+  "version": 260,
+  "maj": "2026-09-15T19:59:57.587Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -2047,6 +2047,19 @@
         "/media/produits/victorias-secret-gommage-corps-feel-bright-white-peach-mango-1.jpg",
         "/media/produits/victorias-secret-gommage-corps-feel-bright-white-peach-mango-2.jpg",
         "/media/produits/victorias-secret-gommage-corps-feel-bright-white-peach-mango-3.jpg"
+      ],
+      "masque": false,
+      "nouveaute": false,
+      "vedette": false
+    },
+    "victorias-secret-gommage-corps-feel-comfort-vanilla-orchid-sandalwood": {
+      "prix": 15000,
+      "prixBarre": null,
+      "stock": null,
+      "visuels": [
+        "/media/produits/victorias-secret-gommage-corps-feel-comfort-vanilla-orchid-sandalwood-1.jpg",
+        "/media/produits/victorias-secret-gommage-corps-feel-comfort-vanilla-orchid-sandalwood-2.jpg",
+        "/media/produits/victorias-secret-gommage-corps-feel-comfort-vanilla-orchid-sandalwood-3.jpg"
       ],
       "masque": false,
       "nouveaute": false,
