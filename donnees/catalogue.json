@@ -1,6 +1,6 @@
 {
-  "version": 93,
-  "maj": "2026-09-15T18:19:08.761Z",
+  "version": 94,
+  "maj": "2026-09-15T18:19:58.789Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -380,7 +380,12 @@
       "prix": 10000,
       "masque": false,
       "nouveaute": false,
-      "vedette": false
+      "vedette": false,
+      "prixBarre": null,
+      "stock": null,
+      "visuels": [
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/bougie-japanese-cherry-blossom-1789496389190-0k8npy.jpg"
+      ]
     },
     "bougie-a-thousand-wishes": {
       "prix": 10000,
