@@ -1,6 +1,6 @@
 {
-  "version": 183,
-  "maj": "2026-09-15T19:07:49.648Z",
+  "version": 184,
+  "maj": "2026-09-15T19:08:19.151Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -1468,6 +1468,17 @@
       "masque": false,
       "nouveaute": false,
       "vedette": false
+    },
+    "caraco-dentelle-et-pantalon-noir": {
+      "prix": 14000,
+      "prixBarre": 16000,
+      "stock": null,
+      "visuels": [
+        "/media/produits/caraco-dentelle-et-pantalon-noir-1.jpg"
+      ],
+      "masque": false,
+      "nouveaute": false,
+      "vedette": true
     }
   },
   "ajouts": []
