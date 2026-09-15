@@ -1,6 +1,6 @@
 {
-  "version": 80,
-  "maj": "2026-09-15T12:37:55.465Z",
+  "version": 81,
+  "maj": "2026-09-15T12:42:37.733Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 99992,
@@ -90,8 +90,8 @@
     "beauty-of-joseon-creme-dynastie": {
       "prix": 10000,
       "visuels": [
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/beauty-of-joseon-creme-dynastie-1789476144597-p5myt2.jpg",
         "/media/produits/beauty-of-joseon-creme-dynastie-3.jpg",
-        "/media/produits/beauty-of-joseon-creme-dynastie-1.jpg",
         "/media/produits/beauty-of-joseon-creme-dynastie-2.jpg",
         "/media/produits/beauty-of-joseon-creme-dynastie-6.jpg",
         "/media/produits/beauty-of-joseon-creme-dynastie-4.jpg",
@@ -99,7 +99,9 @@
       ],
       "masque": false,
       "nouveaute": false,
-      "vedette": false
+      "vedette": false,
+      "prixBarre": null,
+      "stock": null
     },
     "medicube-zero-pore-pad": {
       "prix": 10000,
