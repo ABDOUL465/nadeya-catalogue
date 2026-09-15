@@ -1,6 +1,6 @@
 {
-  "version": 200,
-  "maj": "2026-09-15T19:15:36.245Z",
+  "version": 201,
+  "maj": "2026-09-15T19:15:59.924Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -460,13 +460,15 @@
       "vedette": true
     },
     "bougie-touch-of-gold": {
-      "prix": 10000,
+      "prix": 20000,
       "visuels": [
         "/media/produits/bougie-touch-of-gold-1.jpg"
       ],
       "masque": false,
       "nouveaute": false,
-      "vedette": false
+      "vedette": false,
+      "prixBarre": null,
+      "stock": null
     },
     "rare-eau-de-parfum": {
       "prix": 85000,
