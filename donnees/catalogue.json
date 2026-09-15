@@ -1,6 +1,6 @@
 {
-  "version": 230,
-  "maj": "2026-09-15T19:31:50.870Z",
+  "version": 231,
+  "maj": "2026-09-15T19:32:18.326Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -1810,6 +1810,19 @@
         "/media/produits/sephora-cream-lip-stain-n-97-red-desert-3.jpg",
         "/media/produits/sephora-cream-lip-stain-n-97-red-desert-4.jpg",
         "/media/produits/sephora-cream-lip-stain-n-97-red-desert-5.jpg"
+      ],
+      "masque": false,
+      "nouveaute": false,
+      "vedette": false
+    },
+    "too-faced-cloud-crush-candy-clouds": {
+      "prix": 30000,
+      "prixBarre": null,
+      "stock": null,
+      "visuels": [
+        "/media/produits/too-faced-cloud-crush-candy-clouds-1.jpg",
+        "/media/produits/too-faced-cloud-crush-candy-clouds-2.jpg",
+        "/media/produits/too-faced-cloud-crush-candy-clouds-3.jpg"
       ],
       "masque": false,
       "nouveaute": false,
