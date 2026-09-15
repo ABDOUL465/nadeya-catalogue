@@ -1,6 +1,6 @@
 {
-  "version": 175,
-  "maj": "2026-09-15T19:01:35.398Z",
+  "version": 176,
+  "maj": "2026-09-15T19:02:01.831Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -1394,6 +1394,18 @@
       "visuels": [
         "/media/produits/gingham-2.jpg",
         "/media/produits/gingham-1.jpg"
+      ],
+      "masque": false,
+      "nouveaute": false,
+      "vedette": false
+    },
+    "a-thousand-wishes-bath-body-works": {
+      "prix": 15000,
+      "prixBarre": null,
+      "stock": null,
+      "visuels": [
+        "/media/produits/a-thousand-wishes-bath-body-works-2.jpg",
+        "/media/produits/a-thousand-wishes-bath-body-works-1.jpg"
       ],
       "masque": false,
       "nouveaute": false,
