@@ -1,6 +1,6 @@
 {
-  "version": 156,
-  "maj": "2026-09-15T18:56:51.066Z",
+  "version": 157,
+  "maj": "2026-09-15T18:57:06.123Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -1203,6 +1203,18 @@
       "visuels": [
         "/media/produits/amber-bouquet-butta-drop-2.jpg",
         "/media/produits/amber-bouquet-butta-drop-1.jpg"
+      ],
+      "masque": false,
+      "nouveaute": false,
+      "vedette": false
+    },
+    "hey-bouquet-butta-drop": {
+      "prix": 30000,
+      "prixBarre": null,
+      "stock": null,
+      "visuels": [
+        "/media/produits/hey-bouquet-butta-drop-2.jpg",
+        "/media/produits/hey-bouquet-butta-drop-1.jpg"
       ],
       "masque": false,
       "nouveaute": false,
