@@ -1,6 +1,6 @@
 {
-  "version": 141,
-  "maj": "2026-09-15T18:51:42.036Z",
+  "version": 142,
+  "maj": "2026-09-15T18:51:52.172Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -1045,6 +1045,18 @@
       "visuels": [
         "/media/produits/canyon-blooms-brume-2.jpg",
         "/media/produits/canyon-blooms-brume-1.jpg"
+      ],
+      "masque": false,
+      "nouveaute": false,
+      "vedette": false
+    },
+    "bare-vanilla-brume": {
+      "prix": 15000,
+      "prixBarre": null,
+      "stock": null,
+      "visuels": [
+        "/media/produits/bare-vanilla-brume-2.jpg",
+        "/media/produits/bare-vanilla-brume-1.jpg"
       ],
       "masque": false,
       "nouveaute": false,
