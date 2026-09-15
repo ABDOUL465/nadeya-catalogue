@@ -1,6 +1,6 @@
 {
-  "version": 277,
-  "maj": "2026-09-15T20:10:45.333Z",
+  "version": 278,
+  "maj": "2026-09-15T20:11:04.549Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -106,7 +106,7 @@
       "stock": null
     },
     "beauty-of-joseon-creme-dynastie": {
-      "prix": 10000,
+      "prix": 15000,
       "visuels": [
         "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/beauty-of-joseon-creme-dynastie-1789476144597-p5myt2.jpg",
         "/media/produits/beauty-of-joseon-creme-dynastie-3.jpg",
