@@ -1,6 +1,6 @@
 {
-  "version": 110,
-  "maj": "2026-09-15T18:45:52.606Z",
+  "version": 111,
+  "maj": "2026-09-15T18:46:12.117Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -707,6 +707,18 @@
       "visuels": [
         "/media/produits/sundrenched-blooms-2.jpg",
         "/media/produits/sundrenched-blooms-1.jpg"
+      ],
+      "masque": false,
+      "nouveaute": false,
+      "vedette": false
+    },
+    "whipped-sugar-milk": {
+      "prix": 15000,
+      "prixBarre": null,
+      "stock": null,
+      "visuels": [
+        "/media/produits/whipped-sugar-milk-2.jpg",
+        "/media/produits/whipped-sugar-milk-1.jpg"
       ],
       "masque": false,
       "nouveaute": false,
