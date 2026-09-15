@@ -1,6 +1,6 @@
 {
-  "version": 146,
-  "maj": "2026-09-15T18:52:42.530Z",
+  "version": 147,
+  "maj": "2026-09-15T18:53:29.240Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -1105,6 +1105,18 @@
       "visuels": [
         "/media/produits/coconut-dream-2.jpg",
         "/media/produits/coconut-dream-1.jpg"
+      ],
+      "masque": false,
+      "nouveaute": false,
+      "vedette": false
+    },
+    "the-mista": {
+      "prix": 35000,
+      "prixBarre": null,
+      "stock": null,
+      "visuels": [
+        "/media/produits/the-mista-2.jpg",
+        "/media/produits/the-mista-1.jpg"
       ],
       "masque": false,
       "nouveaute": false,
