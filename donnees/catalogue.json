@@ -1,6 +1,6 @@
 {
-  "version": 100,
-  "maj": "2026-09-15T18:30:09.390Z",
+  "version": 101,
+  "maj": "2026-09-15T18:31:47.408Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -94,11 +94,14 @@
     "beach-shimmer": {
       "prix": 10000,
       "visuels": [
-        "/media/produits/beach-shimmer-1.jpg"
+        "/media/produits/beach-shimmer-1.jpg",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/beach-shimmer-1789497096394-l4oxls.jpg"
       ],
       "masque": false,
       "nouveaute": false,
-      "vedette": false
+      "vedette": false,
+      "prixBarre": null,
+      "stock": null
     },
     "beauty-of-joseon-creme-dynastie": {
       "prix": 10000,
