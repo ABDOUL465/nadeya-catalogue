@@ -1,6 +1,6 @@
 {
-  "version": 208,
-  "maj": "2026-09-15T19:18:17.449Z",
+  "version": 209,
+  "maj": "2026-09-15T19:18:42.723Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -206,7 +206,7 @@
       "vedette": false
     },
     "kylie-skin-lip-butter-butter-cake": {
-      "prix": 10000,
+      "prix": 20000,
       "visuels": [
         "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/kylie-skin-lip-butter-butter-cake-1789499884715-sgxvxa.jpg",
         "/media/produits/kylie-skin-lip-butter-butter-cake-2.jpg",
