@@ -1,6 +1,6 @@
 {
-  "version": 113,
-  "maj": "2026-09-15T18:46:48.047Z",
+  "version": 114,
+  "maj": "2026-09-15T18:46:59.109Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -743,6 +743,18 @@
       "visuels": [
         "/media/produits/warm-vanilla-woods-2.jpg",
         "/media/produits/warm-vanilla-woods-1.jpg"
+      ],
+      "masque": false,
+      "nouveaute": false,
+      "vedette": false
+    },
+    "coastal-blooms": {
+      "prix": 15000,
+      "prixBarre": null,
+      "stock": null,
+      "visuels": [
+        "/media/produits/coastal-blooms-2.jpg",
+        "/media/produits/coastal-blooms-1.jpg"
       ],
       "masque": false,
       "nouveaute": false,
