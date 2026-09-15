@@ -1,6 +1,6 @@
 {
-  "version": 191,
-  "maj": "2026-09-15T19:11:22.770Z",
+  "version": 192,
+  "maj": "2026-09-15T19:11:38.500Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -1543,6 +1543,17 @@
       "stock": null,
       "visuels": [
         "/media/produits/ensemble-satin-rose-vif-1.jpg"
+      ],
+      "masque": false,
+      "nouveaute": false,
+      "vedette": false
+    },
+    "ensemble-noir-borde-dentelle-rose": {
+      "prix": 12000,
+      "prixBarre": null,
+      "stock": null,
+      "visuels": [
+        "/media/produits/ensemble-noir-borde-dentelle-rose-1.jpg"
       ],
       "masque": false,
       "nouveaute": false,
