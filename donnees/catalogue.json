@@ -1,6 +1,6 @@
 {
-  "version": 174,
-  "maj": "2026-09-15T19:01:20.641Z",
+  "version": 175,
+  "maj": "2026-09-15T19:01:35.398Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -1382,6 +1382,18 @@
       "visuels": [
         "/media/produits/platinum-bath-body-works-2.jpg",
         "/media/produits/platinum-bath-body-works-1.jpg"
+      ],
+      "masque": false,
+      "nouveaute": false,
+      "vedette": false
+    },
+    "gingham": {
+      "prix": 15000,
+      "prixBarre": null,
+      "stock": null,
+      "visuels": [
+        "/media/produits/gingham-2.jpg",
+        "/media/produits/gingham-1.jpg"
       ],
       "masque": false,
       "nouveaute": false,
