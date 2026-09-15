@@ -1,6 +1,6 @@
 {
-  "version": 147,
-  "maj": "2026-09-15T18:53:29.240Z",
+  "version": 148,
+  "maj": "2026-09-15T18:53:43.479Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -1117,6 +1117,18 @@
       "visuels": [
         "/media/produits/the-mista-2.jpg",
         "/media/produits/the-mista-1.jpg"
+      ],
+      "masque": false,
+      "nouveaute": false,
+      "vedette": false
+    },
+    "touch-of-gold": {
+      "prix": 15000,
+      "prixBarre": null,
+      "stock": null,
+      "visuels": [
+        "/media/produits/touch-of-gold-2.jpg",
+        "/media/produits/touch-of-gold-1.jpg"
       ],
       "masque": false,
       "nouveaute": false,
