@@ -1,6 +1,6 @@
 {
-  "version": 96,
-  "maj": "2026-09-15T18:21:29.035Z",
+  "version": 97,
+  "maj": "2026-09-15T18:22:27.669Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -30,12 +30,15 @@
     "sun-splashed-fresh-clean-pink-by-victorias-secret": {
       "prix": 10000,
       "visuels": [
-        "/media/produits/sun-splashed-fresh-clean-pink-by-victorias-secret-2.jpg",
-        "/media/produits/sun-splashed-fresh-clean-pink-by-victorias-secret-1.jpg"
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/sun-splashed-fresh-clean-pink-by-victorias-secret-1789496540454-66hkal.jpg",
+        "/media/produits/sun-splashed-fresh-clean-pink-by-victorias-secret-1.jpg",
+        "/media/produits/sun-splashed-fresh-clean-pink-by-victorias-secret-2.jpg"
       ],
       "masque": false,
       "nouveaute": false,
-      "vedette": false
+      "vedette": false,
+      "prixBarre": null,
+      "stock": null
     },
     "fenty-skin-butta-drop-whipped-oil-amber-bouquet": {
       "prix": 10000,
