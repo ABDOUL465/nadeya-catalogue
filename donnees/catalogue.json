@@ -1,6 +1,6 @@
 {
-  "version": 225,
-  "maj": "2026-09-15T19:29:21.280Z",
+  "version": 226,
+  "maj": "2026-09-15T19:29:34.465Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -1781,6 +1781,20 @@
       "masque": false,
       "nouveaute": false,
       "vedette": true
+    },
+    "sephora-cream-lip-stain-n-94-cherry-moon": {
+      "prix": 18000,
+      "prixBarre": null,
+      "stock": null,
+      "visuels": [
+        "/media/produits/sephora-cream-lip-stain-n-94-cherry-moon-2.jpg",
+        "/media/produits/sephora-cream-lip-stain-n-94-cherry-moon-1.jpg",
+        "/media/produits/sephora-cream-lip-stain-n-94-cherry-moon-4.jpg",
+        "/media/produits/sephora-cream-lip-stain-n-94-cherry-moon-3.jpg"
+      ],
+      "masque": false,
+      "nouveaute": false,
+      "vedette": false
     }
   },
   "ajouts": []
