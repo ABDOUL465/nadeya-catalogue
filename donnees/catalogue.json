@@ -1,6 +1,6 @@
 {
-  "version": 254,
-  "maj": "2026-09-15T19:53:16.365Z",
+  "version": 255,
+  "maj": "2026-09-15T19:57:44.966Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -2016,6 +2016,22 @@
         "/media/produits/charlotte-tilbury-airbrush-flawless-setting-spray-6.jpg",
         "/media/produits/charlotte-tilbury-airbrush-flawless-setting-spray-7.jpg",
         "/media/produits/charlotte-tilbury-airbrush-flawless-setting-spray-8.jpg"
+      ],
+      "masque": false,
+      "nouveaute": false,
+      "vedette": false
+    },
+    "fenty-skin-butta-drop-whipped-oil-original": {
+      "prix": 38000,
+      "prixBarre": null,
+      "stock": null,
+      "visuels": [
+        "/media/produits/fenty-skin-butta-drop-whipped-oil-original-2.jpg",
+        "/media/produits/fenty-skin-butta-drop-whipped-oil-original-1.jpg",
+        "/media/produits/fenty-skin-butta-drop-whipped-oil-original-4.jpg",
+        "/media/produits/fenty-skin-butta-drop-whipped-oil-original-6.jpg",
+        "/media/produits/fenty-skin-butta-drop-whipped-oil-original-3.jpg",
+        "/media/produits/fenty-skin-butta-drop-whipped-oil-original-5.jpg"
       ],
       "masque": false,
       "nouveaute": false,
