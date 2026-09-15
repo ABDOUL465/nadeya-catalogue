@@ -1,6 +1,6 @@
 {
-  "version": 274,
-  "maj": "2026-09-15T20:09:48.245Z",
+  "version": 275,
+  "maj": "2026-09-15T20:10:06.866Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -182,7 +182,7 @@
       "stock": null
     },
     "beauty-of-joseon-serum-the-vert-panthenol": {
-      "prix": 10000,
+      "prix": 12000,
       "visuels": [
         "/media/produits/beauty-of-joseon-serum-the-vert-panthenol-2.jpg",
         "/media/produits/beauty-of-joseon-serum-the-vert-panthenol-1.jpg",
@@ -193,7 +193,9 @@
       ],
       "masque": false,
       "nouveaute": false,
-      "vedette": false
+      "vedette": false,
+      "prixBarre": null,
+      "stock": null
     },
     "kylie-jenner-cosmic-intense": {
       "prix": 70000,
