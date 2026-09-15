@@ -1,6 +1,6 @@
 {
-  "version": 198,
-  "maj": "2026-09-15T19:13:35.366Z",
+  "version": 199,
+  "maj": "2026-09-15T19:14:58.531Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -1609,6 +1609,18 @@
       "stock": null,
       "visuels": [
         "/media/produits/ensemble-jersey-gris-1.jpg"
+      ],
+      "masque": false,
+      "nouveaute": false,
+      "vedette": false
+    },
+    "vanilla-flowers-big-drippr": {
+      "prix": 25000,
+      "prixBarre": null,
+      "stock": null,
+      "visuels": [
+        "/media/produits/vanilla-flowers-big-drippr-2.jpg",
+        "/media/produits/vanilla-flowers-big-drippr-1.jpg"
       ],
       "masque": false,
       "nouveaute": false,
