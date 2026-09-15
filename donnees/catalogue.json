@@ -1,6 +1,6 @@
 {
-  "version": 233,
-  "maj": "2026-09-15T19:32:38.742Z",
+  "version": 234,
+  "maj": "2026-09-15T19:34:28.851Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -1849,6 +1849,20 @@
         "/media/produits/too-faced-cloud-crush-golden-hour-1.jpg",
         "/media/produits/too-faced-cloud-crush-golden-hour-2.jpg",
         "/media/produits/too-faced-cloud-crush-golden-hour-3.jpg"
+      ],
+      "masque": false,
+      "nouveaute": false,
+      "vedette": false
+    },
+    "too-faced-sun-bunny-bronzer-sunset-bunny": {
+      "prix": 33000,
+      "prixBarre": null,
+      "stock": null,
+      "visuels": [
+        "/media/produits/too-faced-sun-bunny-bronzer-sunset-bunny-1.jpg",
+        "/media/produits/too-faced-sun-bunny-bronzer-sunset-bunny-2.jpg",
+        "/media/produits/too-faced-sun-bunny-bronzer-sunset-bunny-3.jpg",
+        "/media/produits/too-faced-sun-bunny-bronzer-sunset-bunny-4.jpg"
       ],
       "masque": false,
       "nouveaute": false,
