@@ -1,6 +1,6 @@
 {
-  "version": 241,
-  "maj": "2026-09-15T19:38:36.687Z",
+  "version": 242,
+  "maj": "2026-09-15T19:40:08.781Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -1934,6 +1934,21 @@
         "/media/produits/fenty-sun-stalkr-souffle-n-05-brown-butt-r-5.jpg",
         "/media/produits/fenty-sun-stalkr-souffle-n-05-brown-butt-r-6.jpg",
         "/media/produits/fenty-sun-stalkr-souffle-n-05-brown-butt-r-7.jpg"
+      ],
+      "masque": false,
+      "nouveaute": false,
+      "vedette": false
+    },
+    "huda-easy-bake-powder-banana-bread": {
+      "prix": 38000,
+      "prixBarre": null,
+      "stock": null,
+      "visuels": [
+        "/media/produits/huda-easy-bake-powder-banana-bread-1.jpg",
+        "/media/produits/huda-easy-bake-powder-banana-bread-2.jpg",
+        "/media/produits/huda-easy-bake-powder-banana-bread-3.jpg",
+        "/media/produits/huda-easy-bake-powder-banana-bread-4.jpg",
+        "/media/produits/huda-easy-bake-powder-banana-bread-5.jpg"
       ],
       "masque": false,
       "nouveaute": false,
