@@ -1,6 +1,6 @@
 {
-  "version": 215,
-  "maj": "2026-09-15T19:21:50.432Z",
+  "version": 216,
+  "maj": "2026-09-15T19:22:04.823Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -1708,6 +1708,19 @@
         "/media/produits/fenty-gloss-bomb-oil-miss-jellyfish-1.jpg",
         "/media/produits/fenty-gloss-bomb-oil-miss-jellyfish-2.jpg",
         "/media/produits/fenty-gloss-bomb-oil-miss-jellyfish-3.jpg"
+      ],
+      "masque": false,
+      "nouveaute": false,
+      "vedette": false
+    },
+    "fenty-gloss-bomb-oil-razzberry-jamz": {
+      "prix": 20000,
+      "prixBarre": null,
+      "stock": null,
+      "visuels": [
+        "/media/produits/fenty-gloss-bomb-oil-razzberry-jamz-1.jpg",
+        "/media/produits/fenty-gloss-bomb-oil-razzberry-jamz-2.jpg",
+        "/media/produits/fenty-gloss-bomb-oil-razzberry-jamz-3.jpg"
       ],
       "masque": false,
       "nouveaute": false,
