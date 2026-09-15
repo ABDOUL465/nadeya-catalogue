@@ -1,6 +1,6 @@
 {
-  "version": 222,
-  "maj": "2026-09-15T19:28:13.002Z",
+  "version": 223,
+  "maj": "2026-09-15T19:28:24.117Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -266,7 +266,7 @@
       "stock": null
     },
     "fenty-skin-treatz-lip-oil-black-cherry": {
-      "prix": 10000,
+      "prix": 20000,
       "visuels": [
         "/media/produits/fenty-skin-treatz-lip-oil-black-cherry-2.jpg",
         "/media/produits/fenty-skin-treatz-lip-oil-black-cherry-1.jpg",
@@ -277,7 +277,9 @@
       ],
       "masque": false,
       "nouveaute": false,
-      "vedette": false
+      "vedette": false,
+      "prixBarre": null,
+      "stock": null
     },
     "elf-glow-reviver-lip-oil-glimmer-chocoluxe": {
       "prix": 10000,
