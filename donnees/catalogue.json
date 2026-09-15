@@ -1,6 +1,6 @@
 {
-  "version": 86,
-  "maj": "2026-09-15T15:58:42.371Z",
+  "version": 87,
+  "maj": "2026-09-15T18:14:30.419Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -451,12 +451,15 @@
     "easy-bake-intense": {
       "prix": 10000,
       "visuels": [
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/easy-bake-intense-1789496062332-l2q08c.jpg",
         "/media/produits/easy-bake-intense-1.jpg",
         "/media/produits/easy-bake-intense-2.jpg"
       ],
       "masque": false,
       "nouveaute": false,
-      "vedette": false
+      "vedette": false,
+      "prixBarre": null,
+      "stock": null
     },
     "zara-for-him-red-edition": {
       "prix": 10000,
