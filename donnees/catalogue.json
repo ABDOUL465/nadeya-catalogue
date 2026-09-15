@@ -1,6 +1,6 @@
 {
-  "version": 153,
-  "maj": "2026-09-15T18:54:44.906Z",
+  "version": 154,
+  "maj": "2026-09-15T18:54:57.610Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -1177,6 +1177,18 @@
       "visuels": [
         "/media/produits/bikini-shimmer-2.jpg",
         "/media/produits/bikini-shimmer-1.jpg"
+      ],
+      "masque": false,
+      "nouveaute": false,
+      "vedette": false
+    },
+    "glazed-petals-berries": {
+      "prix": 15000,
+      "prixBarre": null,
+      "stock": null,
+      "visuels": [
+        "/media/produits/glazed-petals-berries-2.jpg",
+        "/media/produits/glazed-petals-berries-1.jpg"
       ],
       "masque": false,
       "nouveaute": false,
