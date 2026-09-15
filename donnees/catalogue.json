@@ -1,6 +1,6 @@
 {
-  "version": 139,
-  "maj": "2026-09-15T18:51:16.034Z",
+  "version": 140,
+  "maj": "2026-09-15T18:51:29.676Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -1021,6 +1021,18 @@
       "visuels": [
         "/media/produits/midnight-bloom-brume-2.jpg",
         "/media/produits/midnight-bloom-brume-1.jpg"
+      ],
+      "masque": false,
+      "nouveaute": false,
+      "vedette": false
+    },
+    "glazed-petals-berries-brume": {
+      "prix": 15000,
+      "prixBarre": null,
+      "stock": null,
+      "visuels": [
+        "/media/produits/glazed-petals-berries-brume-2.jpg",
+        "/media/produits/glazed-petals-berries-brume-1.jpg"
       ],
       "masque": false,
       "nouveaute": false,
