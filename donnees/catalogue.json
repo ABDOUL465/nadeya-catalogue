@@ -1,16 +1,18 @@
 {
-  "version": 76,
-  "maj": "2026-09-15T03:10:08.256Z",
+  "version": 77,
+  "maj": "2026-09-15T03:11:02.785Z",
   "surcharges": {
     "velvet-petals": {
-      "prix": 10000,
+      "prix": 1234,
       "visuels": [
         "/media/produits/velvet-petals-2.jpg",
         "/media/produits/velvet-petals-1.jpg"
       ],
       "masque": false,
       "nouveaute": false,
-      "vedette": false
+      "vedette": false,
+      "prixBarre": null,
+      "stock": null
     },
     "glowmotions-carnaval-queen": {
       "prix": 10000,
