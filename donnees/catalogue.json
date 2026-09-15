@@ -1,6 +1,6 @@
 {
-  "version": 194,
-  "maj": "2026-09-15T19:12:08.152Z",
+  "version": 195,
+  "maj": "2026-09-15T19:12:22.363Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -1569,6 +1569,17 @@
       "masque": false,
       "nouveaute": false,
       "vedette": true
+    },
+    "caraco-croise-noir-dentelle": {
+      "prix": 12000,
+      "prixBarre": null,
+      "stock": null,
+      "visuels": [
+        "/media/produits/caraco-croise-noir-dentelle-1.jpg"
+      ],
+      "masque": false,
+      "nouveaute": false,
+      "vedette": false
     }
   },
   "ajouts": []
