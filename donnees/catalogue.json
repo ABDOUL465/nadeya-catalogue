@@ -1,6 +1,6 @@
 {
-  "version": 266,
-  "maj": "2026-09-15T20:02:13.148Z",
+  "version": 267,
+  "maj": "2026-09-15T20:04:23.320Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -122,7 +122,7 @@
       "stock": null
     },
     "medicube-zero-pore-pad": {
-      "prix": 10000,
+      "prix": 13000,
       "visuels": [
         "/media/produits/medicube-zero-pore-pad-1.jpg",
         "/media/produits/medicube-zero-pore-pad-3.jpg",
@@ -133,7 +133,9 @@
       ],
       "masque": false,
       "nouveaute": false,
-      "vedette": false
+      "vedette": false,
+      "prixBarre": null,
+      "stock": null
     },
     "madagascar-centella-watergel-mask": {
       "prix": 10000,
