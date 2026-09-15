@@ -1,6 +1,6 @@
 {
-  "version": 220,
-  "maj": "2026-09-15T19:27:48.007Z",
+  "version": 221,
+  "maj": "2026-09-15T19:27:57.917Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -1744,6 +1744,20 @@
         "/media/produits/fenty-skin-treatz-lip-oil-barbados-cherry-3.jpg",
         "/media/produits/fenty-skin-treatz-lip-oil-barbados-cherry-4.jpg",
         "/media/produits/fenty-skin-treatz-lip-oil-barbados-cherry-5.jpg"
+      ],
+      "masque": false,
+      "nouveaute": false,
+      "vedette": false
+    },
+    "fenty-skin-treatz-lip-oil-kalahari-melon": {
+      "prix": 20000,
+      "prixBarre": null,
+      "stock": null,
+      "visuels": [
+        "/media/produits/fenty-skin-treatz-lip-oil-kalahari-melon-1.jpg",
+        "/media/produits/fenty-skin-treatz-lip-oil-kalahari-melon-2.jpg",
+        "/media/produits/fenty-skin-treatz-lip-oil-kalahari-melon-3.jpg",
+        "/media/produits/fenty-skin-treatz-lip-oil-kalahari-melon-4.jpg"
       ],
       "masque": false,
       "nouveaute": false,
