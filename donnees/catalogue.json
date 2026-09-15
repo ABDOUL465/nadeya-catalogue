@@ -1,6 +1,6 @@
 {
-  "version": 109,
-  "maj": "2026-09-15T18:45:41.624Z",
+  "version": 110,
+  "maj": "2026-09-15T18:45:52.606Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -695,6 +695,18 @@
       "visuels": [
         "/media/produits/golden-saffron-amber-2.jpg",
         "/media/produits/golden-saffron-amber-1.jpg"
+      ],
+      "masque": false,
+      "nouveaute": false,
+      "vedette": false
+    },
+    "sundrenched-blooms": {
+      "prix": 15000,
+      "prixBarre": null,
+      "stock": null,
+      "visuels": [
+        "/media/produits/sundrenched-blooms-2.jpg",
+        "/media/produits/sundrenched-blooms-1.jpg"
       ],
       "masque": false,
       "nouveaute": false,
