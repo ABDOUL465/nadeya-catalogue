@@ -1,6 +1,6 @@
 {
-  "version": 212,
-  "maj": "2026-09-15T19:20:05.129Z",
+  "version": 213,
+  "maj": "2026-09-15T19:20:29.652Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -363,8 +363,9 @@
       "stock": null
     },
     "kylie-skin-lip-butter-vanilla-caramel": {
-      "prix": 10000,
+      "prix": 20000,
       "visuels": [
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/kylie-skin-lip-butter-vanilla-caramel-1789500020140-ecgo9y.jpg",
         "/media/produits/kylie-skin-lip-butter-vanilla-caramel-1.jpg",
         "/media/produits/kylie-skin-lip-butter-vanilla-caramel-3.jpg",
         "/media/produits/kylie-skin-lip-butter-vanilla-caramel-4.jpg",
@@ -373,7 +374,9 @@
       ],
       "masque": false,
       "nouveaute": false,
-      "vedette": false
+      "vedette": false,
+      "prixBarre": null,
+      "stock": null
     },
     "fenty-diamond-bomb-n-01-how-many-carats": {
       "prix": 10000,
