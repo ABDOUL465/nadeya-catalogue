@@ -1,6 +1,6 @@
 {
-  "version": 176,
-  "maj": "2026-09-15T19:02:01.831Z",
+  "version": 177,
+  "maj": "2026-09-15T19:02:20.416Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -1406,6 +1406,18 @@
       "visuels": [
         "/media/produits/a-thousand-wishes-bath-body-works-2.jpg",
         "/media/produits/a-thousand-wishes-bath-body-works-1.jpg"
+      ],
+      "masque": false,
+      "nouveaute": false,
+      "vedette": false
+    },
+    "vanilla-dream-butta-drop": {
+      "prix": 30000,
+      "prixBarre": null,
+      "stock": null,
+      "visuels": [
+        "/media/produits/vanilla-dream-butta-drop-2.jpg",
+        "/media/produits/vanilla-dream-butta-drop-1.jpg"
       ],
       "masque": false,
       "nouveaute": false,
