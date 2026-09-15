@@ -1,6 +1,6 @@
 {
-  "version": 223,
-  "maj": "2026-09-15T19:28:24.117Z",
+  "version": 224,
+  "maj": "2026-09-15T19:29:09.187Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -1762,6 +1762,21 @@
         "/media/produits/fenty-skin-treatz-lip-oil-kalahari-melon-2.jpg",
         "/media/produits/fenty-skin-treatz-lip-oil-kalahari-melon-3.jpg",
         "/media/produits/fenty-skin-treatz-lip-oil-kalahari-melon-4.jpg"
+      ],
+      "masque": false,
+      "nouveaute": false,
+      "vedette": false
+    },
+    "sephora-cream-lip-stain-n-01-always-red": {
+      "prix": 18000,
+      "prixBarre": null,
+      "stock": null,
+      "visuels": [
+        "/media/produits/sephora-cream-lip-stain-n-01-always-red-1.jpg",
+        "/media/produits/sephora-cream-lip-stain-n-01-always-red-2.jpg",
+        "/media/produits/sephora-cream-lip-stain-n-01-always-red-3.jpg",
+        "/media/produits/sephora-cream-lip-stain-n-01-always-red-4.jpg",
+        "/media/produits/sephora-cream-lip-stain-n-01-always-red-5.jpg"
       ],
       "masque": false,
       "nouveaute": false,
