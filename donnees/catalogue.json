@@ -1,6 +1,6 @@
 {
-  "version": 105,
-  "maj": "2026-09-15T18:44:31.042Z",
+  "version": 106,
+  "maj": "2026-09-15T18:44:46.722Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -657,6 +657,18 @@
       "visuels": [
         "/media/produits/pure-seduction-2.jpg",
         "/media/produits/pure-seduction-1.jpg"
+      ],
+      "masque": false,
+      "nouveaute": false,
+      "vedette": false
+    },
+    "bare-vanilla": {
+      "prix": 15000,
+      "prixBarre": null,
+      "stock": null,
+      "visuels": [
+        "/media/produits/bare-vanilla-2.jpg",
+        "/media/produits/bare-vanilla-1.jpg"
       ],
       "masque": false,
       "nouveaute": false,
