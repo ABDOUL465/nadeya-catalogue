@@ -1,6 +1,6 @@
 {
-  "version": 272,
-  "maj": "2026-09-15T20:08:54.091Z",
+  "version": 273,
+  "maj": "2026-09-15T20:09:13.819Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -2149,6 +2149,24 @@
         "/media/produits/medicube-pdrn-pink-peptide-serum-7.jpg",
         "/media/produits/medicube-pdrn-pink-peptide-serum-8.jpg",
         "/media/produits/medicube-pdrn-pink-peptide-serum-9.jpg"
+      ],
+      "masque": false,
+      "nouveaute": false,
+      "vedette": false
+    },
+    "medicube-pdrn-pink-collagen-capsule-cream": {
+      "prix": 15000,
+      "prixBarre": null,
+      "stock": null,
+      "visuels": [
+        "/media/produits/medicube-pdrn-pink-collagen-capsule-cream-1.jpg",
+        "/media/produits/medicube-pdrn-pink-collagen-capsule-cream-2.jpg",
+        "/media/produits/medicube-pdrn-pink-collagen-capsule-cream-3.jpg",
+        "/media/produits/medicube-pdrn-pink-collagen-capsule-cream-4.jpg",
+        "/media/produits/medicube-pdrn-pink-collagen-capsule-cream-5.jpg",
+        "/media/produits/medicube-pdrn-pink-collagen-capsule-cream-6.jpg",
+        "/media/produits/medicube-pdrn-pink-collagen-capsule-cream-7.jpg",
+        "/media/produits/medicube-pdrn-pink-collagen-capsule-cream-8.jpg"
       ],
       "masque": false,
       "nouveaute": false,
