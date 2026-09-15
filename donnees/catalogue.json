@@ -1,6 +1,6 @@
 {
-  "version": 114,
-  "maj": "2026-09-15T18:46:59.109Z",
+  "version": 115,
+  "maj": "2026-09-15T18:47:10.892Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -755,6 +755,18 @@
       "visuels": [
         "/media/produits/coastal-blooms-2.jpg",
         "/media/produits/coastal-blooms-1.jpg"
+      ],
+      "masque": false,
+      "nouveaute": false,
+      "vedette": false
+    },
+    "amber-romance": {
+      "prix": 15000,
+      "prixBarre": null,
+      "stock": null,
+      "visuels": [
+        "/media/produits/amber-romance-2.jpg",
+        "/media/produits/amber-romance-1.jpg"
       ],
       "masque": false,
       "nouveaute": false,
