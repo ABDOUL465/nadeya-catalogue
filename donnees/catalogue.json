@@ -1,6 +1,6 @@
 {
-  "version": 111,
-  "maj": "2026-09-15T18:46:12.117Z",
+  "version": 112,
+  "maj": "2026-09-15T18:46:24.838Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -719,6 +719,18 @@
       "visuels": [
         "/media/produits/whipped-sugar-milk-2.jpg",
         "/media/produits/whipped-sugar-milk-1.jpg"
+      ],
+      "masque": false,
+      "nouveaute": false,
+      "vedette": false
+    },
+    "angel-cake-cream": {
+      "prix": 15000,
+      "prixBarre": null,
+      "stock": null,
+      "visuels": [
+        "/media/produits/angel-cake-cream-2.jpg",
+        "/media/produits/angel-cake-cream-1.jpg"
       ],
       "masque": false,
       "nouveaute": false,
