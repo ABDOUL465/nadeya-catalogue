@@ -1,6 +1,6 @@
 {
-  "version": 165,
-  "maj": "2026-09-15T18:58:58.268Z",
+  "version": 166,
+  "maj": "2026-09-15T18:59:11.805Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -1286,6 +1286,18 @@
       "stock": null,
       "visuels": [
         "/media/produits/lingettes-demaquillantes-sans-parfum-paquet-de-25-1.jpg"
+      ],
+      "masque": false,
+      "nouveaute": false,
+      "vedette": false
+    },
+    "apple-crisp-pink-by-victorias-secret": {
+      "prix": 15000,
+      "prixBarre": null,
+      "stock": null,
+      "visuels": [
+        "/media/produits/apple-crisp-pink-by-victorias-secret-2.jpg",
+        "/media/produits/apple-crisp-pink-by-victorias-secret-1.jpg"
       ],
       "masque": false,
       "nouveaute": false,
