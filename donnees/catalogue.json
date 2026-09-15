@@ -1,6 +1,6 @@
 {
-  "version": 127,
-  "maj": "2026-09-15T18:49:09.488Z",
+  "version": 128,
+  "maj": "2026-09-15T18:49:17.418Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -901,6 +901,18 @@
       "visuels": [
         "/media/produits/angel-cake-cream-brume-2.jpg",
         "/media/produits/angel-cake-cream-brume-1.jpg"
+      ],
+      "masque": false,
+      "nouveaute": false,
+      "vedette": false
+    },
+    "coastal-blooms-brume": {
+      "prix": 15000,
+      "prixBarre": null,
+      "stock": null,
+      "visuels": [
+        "/media/produits/coastal-blooms-brume-2.jpg",
+        "/media/produits/coastal-blooms-brume-1.jpg"
       ],
       "masque": false,
       "nouveaute": false,
