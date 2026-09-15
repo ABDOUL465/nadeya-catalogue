@@ -1,6 +1,6 @@
 {
-  "version": 279,
-  "maj": "2026-09-15T20:11:26.133Z",
+  "version": 280,
+  "maj": "2026-09-15T20:11:39.567Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -153,7 +153,7 @@
       "stock": null
     },
     "beauty-of-joseon-gel-nettoyant-prune": {
-      "prix": 10000,
+      "prix": 12000,
       "visuels": [
         "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/beauty-of-joseon-gel-nettoyant-prune-1789476408940-qc0e6v.jpg",
         "/media/produits/beauty-of-joseon-gel-nettoyant-prune-2.jpg",
