@@ -1,6 +1,6 @@
 {
-  "version": 197,
-  "maj": "2026-09-15T19:13:09.354Z",
+  "version": 198,
+  "maj": "2026-09-15T19:13:35.366Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -1602,6 +1602,17 @@
       "masque": false,
       "nouveaute": false,
       "vedette": true
+    },
+    "ensemble-jersey-gris": {
+      "prix": 17000,
+      "prixBarre": null,
+      "stock": null,
+      "visuels": [
+        "/media/produits/ensemble-jersey-gris-1.jpg"
+      ],
+      "masque": false,
+      "nouveaute": false,
+      "vedette": false
     }
   },
   "ajouts": []
