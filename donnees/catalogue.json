@@ -1,6 +1,6 @@
 {
-  "version": 134,
-  "maj": "2026-09-15T18:50:13.347Z",
+  "version": 135,
+  "maj": "2026-09-15T18:50:24.558Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -973,6 +973,18 @@
       "visuels": [
         "/media/produits/seashell-shimmer-brume-shimmer-2.jpg",
         "/media/produits/seashell-shimmer-brume-shimmer-1.jpg"
+      ],
+      "masque": false,
+      "nouveaute": false,
+      "vedette": false
+    },
+    "tidal-shimmer-brume-shimmer": {
+      "prix": 15000,
+      "prixBarre": null,
+      "stock": null,
+      "visuels": [
+        "/media/produits/tidal-shimmer-brume-shimmer-2.jpg",
+        "/media/produits/tidal-shimmer-brume-shimmer-1.jpg"
       ],
       "masque": false,
       "nouveaute": false,
