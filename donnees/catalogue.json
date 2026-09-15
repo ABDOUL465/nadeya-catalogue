@@ -1,6 +1,6 @@
 {
-  "version": 118,
-  "maj": "2026-09-15T18:47:41.769Z",
+  "version": 119,
+  "maj": "2026-09-15T18:47:53.124Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -793,6 +793,18 @@
       "visuels": [
         "/media/produits/fresh-musk-2.jpg",
         "/media/produits/fresh-musk-1.jpg"
+      ],
+      "masque": false,
+      "nouveaute": false,
+      "vedette": false
+    },
+    "a-thousand-wishes": {
+      "prix": 15000,
+      "prixBarre": null,
+      "stock": null,
+      "visuels": [
+        "/media/produits/a-thousand-wishes-2.jpg",
+        "/media/produits/a-thousand-wishes-1.jpg"
       ],
       "masque": false,
       "nouveaute": false,
