@@ -1,6 +1,6 @@
 {
-  "version": 265,
-  "maj": "2026-09-15T20:01:58.725Z",
+  "version": 266,
+  "maj": "2026-09-15T20:02:13.148Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -194,7 +194,7 @@
       "vedette": false
     },
     "kylie-jenner-cosmic-intense": {
-      "prix": 10000,
+      "prix": 70000,
       "visuels": [
         "/media/produits/kylie-jenner-cosmic-intense-4.jpg",
         "/media/produits/kylie-jenner-cosmic-intense-1.jpg",
@@ -205,7 +205,9 @@
       ],
       "masque": false,
       "nouveaute": false,
-      "vedette": false
+      "vedette": false,
+      "prixBarre": null,
+      "stock": null
     },
     "kylie-skin-lip-butter-butter-cake": {
       "prix": 20000,
