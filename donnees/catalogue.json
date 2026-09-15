@@ -1,6 +1,6 @@
 {
-  "version": 224,
-  "maj": "2026-09-15T19:29:09.187Z",
+  "version": 225,
+  "maj": "2026-09-15T19:29:21.280Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -1780,7 +1780,7 @@
       ],
       "masque": false,
       "nouveaute": false,
-      "vedette": false
+      "vedette": true
     }
   },
   "ajouts": []
