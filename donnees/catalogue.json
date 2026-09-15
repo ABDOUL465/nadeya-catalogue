@@ -1,6 +1,6 @@
 {
-  "version": 231,
-  "maj": "2026-09-15T19:32:18.326Z",
+  "version": 232,
+  "maj": "2026-09-15T19:32:28.774Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -1823,6 +1823,19 @@
         "/media/produits/too-faced-cloud-crush-candy-clouds-1.jpg",
         "/media/produits/too-faced-cloud-crush-candy-clouds-2.jpg",
         "/media/produits/too-faced-cloud-crush-candy-clouds-3.jpg"
+      ],
+      "masque": false,
+      "nouveaute": false,
+      "vedette": false
+    },
+    "too-faced-cloud-crush-watermelon-rain": {
+      "prix": 30000,
+      "prixBarre": null,
+      "stock": null,
+      "visuels": [
+        "/media/produits/too-faced-cloud-crush-watermelon-rain-1.jpg",
+        "/media/produits/too-faced-cloud-crush-watermelon-rain-2.jpg",
+        "/media/produits/too-faced-cloud-crush-watermelon-rain-3.jpg"
       ],
       "masque": false,
       "nouveaute": false,
