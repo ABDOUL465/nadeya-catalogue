@@ -1,6 +1,6 @@
 {
-  "version": 172,
-  "maj": "2026-09-15T19:00:57.442Z",
+  "version": 173,
+  "maj": "2026-09-15T19:01:06.837Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -1358,6 +1358,18 @@
       "visuels": [
         "/media/produits/japanese-cherry-blossom-bath-body-works-2.jpg",
         "/media/produits/japanese-cherry-blossom-bath-body-works-1.jpg"
+      ],
+      "masque": false,
+      "nouveaute": false,
+      "vedette": false
+    },
+    "touch-of-gold-bath-body-works": {
+      "prix": 15000,
+      "prixBarre": null,
+      "stock": null,
+      "visuels": [
+        "/media/produits/touch-of-gold-bath-body-works-2.jpg",
+        "/media/produits/touch-of-gold-bath-body-works-1.jpg"
       ],
       "masque": false,
       "nouveaute": false,
