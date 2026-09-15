@@ -1,6 +1,6 @@
 {
-  "version": 186,
-  "maj": "2026-09-15T19:09:01.724Z",
+  "version": 187,
+  "maj": "2026-09-15T19:09:54.780Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -532,13 +532,15 @@
       "stock": null
     },
     "ensemble-satin-noir-manches-longues": {
-      "prix": 10000,
+      "prix": 17000,
       "visuels": [
         "/media/produits/ensemble-satin-noir-manches-longues-1.jpg"
       ],
       "masque": false,
       "nouveaute": false,
-      "vedette": false
+      "vedette": false,
+      "prixBarre": null,
+      "stock": null
     },
     "fenty-gloss-bomb-cream-cookie-jam": {
       "prix": 10000,
