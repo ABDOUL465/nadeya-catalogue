@@ -1,6 +1,6 @@
 {
-  "version": 269,
-  "maj": "2026-09-15T20:06:13.805Z",
+  "version": 270,
+  "maj": "2026-09-15T20:08:05.817Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -2114,6 +2114,21 @@
         "/media/produits/beauty-of-joseon-lait-de-riz-glow-7.jpg",
         "/media/produits/beauty-of-joseon-lait-de-riz-glow-8.jpg",
         "/media/produits/beauty-of-joseon-lait-de-riz-glow-9.jpg"
+      ],
+      "masque": false,
+      "nouveaute": false,
+      "vedette": false
+    },
+    "cosrx-snail-96-essence": {
+      "prix": 15000,
+      "prixBarre": null,
+      "stock": null,
+      "visuels": [
+        "/media/produits/cosrx-snail-96-essence-1.jpg",
+        "/media/produits/cosrx-snail-96-essence-3.jpg",
+        "/media/produits/cosrx-snail-96-essence-2.jpg",
+        "/media/produits/cosrx-snail-96-essence-4.jpg",
+        "/media/produits/cosrx-snail-96-essence-5.jpg"
       ],
       "masque": false,
       "nouveaute": false,
