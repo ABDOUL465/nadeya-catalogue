@@ -1,6 +1,6 @@
 {
-  "version": 90,
-  "maj": "2026-09-15T18:16:53.542Z",
+  "version": 91,
+  "maj": "2026-09-15T18:17:32.696Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -492,12 +492,15 @@
     "velvet-petals-brume": {
       "prix": 10000,
       "visuels": [
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/velvet-petals-brume-1789496241601-ibwmpk.jpg",
         "/media/produits/velvet-petals-brume-1.jpg",
         "/media/produits/velvet-petals-brume-2.jpg"
       ],
       "masque": false,
       "nouveaute": false,
-      "vedette": false
+      "vedette": false,
+      "prixBarre": null,
+      "stock": null
     },
     "ensemble-satin-noir-manches-longues": {
       "prix": 10000,
