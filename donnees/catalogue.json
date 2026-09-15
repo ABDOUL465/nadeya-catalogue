@@ -1,6 +1,6 @@
 {
-  "version": 248,
-  "maj": "2026-09-15T19:41:38.864Z",
+  "version": 249,
+  "maj": "2026-09-15T19:42:40.156Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -1951,6 +1951,21 @@
         "/media/produits/huda-easy-bake-powder-banana-bread-3.jpg",
         "/media/produits/huda-easy-bake-powder-banana-bread-4.jpg",
         "/media/produits/huda-easy-bake-powder-banana-bread-5.jpg"
+      ],
+      "masque": false,
+      "nouveaute": false,
+      "vedette": false
+    },
+    "sephora-colorful-contour-eyeliner-n-01-black-lace": {
+      "prix": 15000,
+      "prixBarre": null,
+      "stock": null,
+      "visuels": [
+        "/media/produits/sephora-colorful-contour-eyeliner-n-01-black-lace-1.jpg",
+        "/media/produits/sephora-colorful-contour-eyeliner-n-01-black-lace-2.jpg",
+        "/media/produits/sephora-colorful-contour-eyeliner-n-01-black-lace-3.jpg",
+        "/media/produits/sephora-colorful-contour-eyeliner-n-01-black-lace-4.jpg",
+        "/media/produits/sephora-colorful-contour-eyeliner-n-01-black-lace-5.jpg"
       ],
       "masque": false,
       "nouveaute": false,
