@@ -1,6 +1,6 @@
 {
-  "version": 106,
-  "maj": "2026-09-15T18:44:46.722Z",
+  "version": 107,
+  "maj": "2026-09-15T18:44:59.650Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -593,14 +593,16 @@
       "vedette": true
     },
     "canyon-blooms": {
-      "prix": 10000,
+      "prix": 15000,
       "visuels": [
         "/media/produits/canyon-blooms-2.jpg",
         "/media/produits/canyon-blooms-1.jpg"
       ],
       "masque": false,
       "nouveaute": true,
-      "vedette": true
+      "vedette": true,
+      "prixBarre": null,
+      "stock": null
     },
     "velvet-berry-creme": {
       "prix": 10000,
