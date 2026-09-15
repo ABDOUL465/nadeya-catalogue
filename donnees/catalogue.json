@@ -1,6 +1,6 @@
 {
-  "version": 188,
-  "maj": "2026-09-15T19:10:20.164Z",
+  "version": 189,
+  "maj": "2026-09-15T19:10:44.414Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -1510,6 +1510,17 @@
       "stock": null,
       "visuels": [
         "/media/produits/ensemble-chocolat-manches-longues-1.jpg"
+      ],
+      "masque": false,
+      "nouveaute": false,
+      "vedette": false
+    },
+    "ensemble-noir-revers-ivoire": {
+      "prix": 13000,
+      "prixBarre": null,
+      "stock": null,
+      "visuels": [
+        "/media/produits/ensemble-noir-revers-ivoire-1.jpg"
       ],
       "masque": false,
       "nouveaute": false,
