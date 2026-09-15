@@ -1,6 +1,6 @@
 {
-  "version": 182,
-  "maj": "2026-09-15T19:07:35.192Z",
+  "version": 183,
+  "maj": "2026-09-15T19:07:49.648Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -1453,6 +1453,17 @@
       "stock": null,
       "visuels": [
         "/media/produits/ensemble-bordeaux-cotele-manches-longues-1.jpg"
+      ],
+      "masque": false,
+      "nouveaute": false,
+      "vedette": false
+    },
+    "ensemble-blanc-cotele-manches-longues": {
+      "prix": 11000,
+      "prixBarre": null,
+      "stock": null,
+      "visuels": [
+        "/media/produits/ensemble-blanc-cotele-manches-longues-1.jpg"
       ],
       "masque": false,
       "nouveaute": false,
