@@ -1,6 +1,6 @@
 {
-  "version": 206,
-  "maj": "2026-09-15T19:16:55.553Z",
+  "version": 207,
+  "maj": "2026-09-15T19:17:05.156Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -1668,6 +1668,17 @@
       "visuels": [
         "/media/produits/bougie-strawberry-kiwi-1.jpg",
         "/media/produits/bougie-strawberry-kiwi-2.jpg"
+      ],
+      "masque": false,
+      "nouveaute": false,
+      "vedette": false
+    },
+    "bougie-sunny-coconut": {
+      "prix": 20000,
+      "prixBarre": null,
+      "stock": null,
+      "visuels": [
+        "/media/produits/bougie-sunny-coconut-1.jpg"
       ],
       "masque": false,
       "nouveaute": false,
