@@ -1,6 +1,6 @@
 {
-  "version": 204,
-  "maj": "2026-09-15T19:16:33.189Z",
+  "version": 205,
+  "maj": "2026-09-15T19:16:43.598Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -1645,6 +1645,17 @@
       "stock": null,
       "visuels": [
         "/media/produits/bougie-platinum-1.jpg"
+      ],
+      "masque": false,
+      "nouveaute": false,
+      "vedette": false
+    },
+    "bougie-gingham": {
+      "prix": 20000,
+      "prixBarre": null,
+      "stock": null,
+      "visuels": [
+        "/media/produits/bougie-gingham-1.jpg"
       ],
       "masque": false,
       "nouveaute": false,
