@@ -1,6 +1,6 @@
 {
-  "version": 161,
-  "maj": "2026-09-15T18:57:59.542Z",
+  "version": 162,
+  "maj": "2026-09-15T18:58:08.954Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -1263,6 +1263,18 @@
       "visuels": [
         "/media/produits/fresh-clean-pink-by-victorias-secret-2.jpg",
         "/media/produits/fresh-clean-pink-by-victorias-secret-1.jpg"
+      ],
+      "masque": false,
+      "nouveaute": false,
+      "vedette": false
+    },
+    "sun-splashed-vanilla-dream-pink-by-victorias-secret": {
+      "prix": 15000,
+      "prixBarre": null,
+      "stock": null,
+      "visuels": [
+        "/media/produits/sun-splashed-vanilla-dream-pink-by-victorias-secret-2.jpg",
+        "/media/produits/sun-splashed-vanilla-dream-pink-by-victorias-secret-1.jpg"
       ],
       "masque": false,
       "nouveaute": false,
