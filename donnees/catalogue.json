@@ -1,6 +1,6 @@
 {
-  "version": 177,
-  "maj": "2026-09-15T19:02:20.416Z",
+  "version": 178,
+  "maj": "2026-09-15T19:03:23.574Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -479,7 +479,7 @@
       "stock": null
     },
     "easy-bake-intense": {
-      "prix": 10000,
+      "prix": 75000,
       "visuels": [
         "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/easy-bake-intense-1789496062332-l2q08c.jpg",
         "/media/produits/easy-bake-intense-1.jpg",
