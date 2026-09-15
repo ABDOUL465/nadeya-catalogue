@@ -1,6 +1,6 @@
 {
-  "version": 264,
-  "maj": "2026-09-15T20:01:45.127Z",
+  "version": 265,
+  "maj": "2026-09-15T20:01:58.725Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -535,7 +535,7 @@
       "stock": null
     },
     "zara-for-him-red-edition": {
-      "prix": 10000,
+      "prix": 42000,
       "visuels": [
         "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/zara-for-him-red-edition-1789496095121-iuk3uk.jpg",
         "/media/produits/zara-for-him-red-edition-1.jpg"
