@@ -1,6 +1,6 @@
 {
-  "version": 123,
-  "maj": "2026-09-15T18:48:36.365Z",
+  "version": 124,
+  "maj": "2026-09-15T18:48:44.976Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -853,6 +853,18 @@
       "visuels": [
         "/media/produits/warm-musk-2.jpg",
         "/media/produits/warm-musk-1.jpg"
+      ],
+      "masque": false,
+      "nouveaute": false,
+      "vedette": false
+    },
+    "buttery-sugary": {
+      "prix": 15000,
+      "prixBarre": null,
+      "stock": null,
+      "visuels": [
+        "/media/produits/buttery-sugary-2.jpg",
+        "/media/produits/buttery-sugary-1.jpg"
       ],
       "masque": false,
       "nouveaute": false,
