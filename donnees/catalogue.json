@@ -1,6 +1,6 @@
 {
-  "version": 255,
-  "maj": "2026-09-15T19:57:44.966Z",
+  "version": 256,
+  "maj": "2026-09-15T19:57:59.280Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -66,7 +66,7 @@
       "stock": null
     },
     "fenty-skin-butta-drop-whipped-oil-vanilla-dream": {
-      "prix": 10000,
+      "prix": 38000,
       "visuels": [
         "/media/produits/fenty-skin-butta-drop-whipped-oil-vanilla-dream-2.jpg",
         "/media/produits/fenty-skin-butta-drop-whipped-oil-vanilla-dream-4.jpg",
@@ -75,7 +75,9 @@
       ],
       "masque": false,
       "nouveaute": false,
-      "vedette": false
+      "vedette": false,
+      "prixBarre": null,
+      "stock": null
     },
     "fenty-skin-butta-drop-whipped-oil-salted-caramel": {
       "prix": 10000,
