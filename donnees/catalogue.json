@@ -1,6 +1,6 @@
 {
-  "version": 203,
-  "maj": "2026-09-15T19:16:22.739Z",
+  "version": 204,
+  "maj": "2026-09-15T19:16:33.189Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -1634,6 +1634,17 @@
       "stock": null,
       "visuels": [
         "/media/produits/bougie-vanilla-coconut-1.jpg"
+      ],
+      "masque": false,
+      "nouveaute": false,
+      "vedette": false
+    },
+    "bougie-platinum": {
+      "prix": 20000,
+      "prixBarre": null,
+      "stock": null,
+      "visuels": [
+        "/media/produits/bougie-platinum-1.jpg"
       ],
       "masque": false,
       "nouveaute": false,
