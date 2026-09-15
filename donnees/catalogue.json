@@ -1,6 +1,6 @@
 {
-  "version": 242,
-  "maj": "2026-09-15T19:40:08.781Z",
+  "version": 243,
+  "maj": "2026-09-15T19:40:20.771Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -469,7 +469,7 @@
       "vedette": true
     },
     "huda-easy-bake-powder-blondie": {
-      "prix": 10000,
+      "prix": 380000,
       "visuels": [
         "/media/produits/huda-easy-bake-powder-blondie-1.jpg",
         "/media/produits/huda-easy-bake-powder-blondie-2.jpg",
@@ -479,7 +479,9 @@
       ],
       "masque": false,
       "nouveaute": true,
-      "vedette": true
+      "vedette": true,
+      "prixBarre": null,
+      "stock": null
     },
     "velvet-berry-creme-brume": {
       "prix": 15000,
