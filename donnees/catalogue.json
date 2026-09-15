@@ -1,6 +1,6 @@
 {
-  "version": 112,
-  "maj": "2026-09-15T18:46:24.838Z",
+  "version": 113,
+  "maj": "2026-09-15T18:46:48.047Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -731,6 +731,18 @@
       "visuels": [
         "/media/produits/angel-cake-cream-2.jpg",
         "/media/produits/angel-cake-cream-1.jpg"
+      ],
+      "masque": false,
+      "nouveaute": false,
+      "vedette": false
+    },
+    "warm-vanilla-woods": {
+      "prix": 15000,
+      "prixBarre": null,
+      "stock": null,
+      "visuels": [
+        "/media/produits/warm-vanilla-woods-2.jpg",
+        "/media/produits/warm-vanilla-woods-1.jpg"
       ],
       "masque": false,
       "nouveaute": false,
