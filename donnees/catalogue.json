@@ -1,6 +1,6 @@
 {
-  "version": 77,
-  "maj": "2026-09-15T03:11:02.785Z",
+  "version": 78,
+  "maj": "2026-09-15T03:21:53.072Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 1234,
@@ -9,7 +9,7 @@
         "/media/produits/velvet-petals-1.jpg"
       ],
       "masque": false,
-      "nouveaute": false,
+      "nouveaute": true,
       "vedette": false,
       "prixBarre": null,
       "stock": null
