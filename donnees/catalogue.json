@@ -1,6 +1,6 @@
 {
-  "version": 154,
-  "maj": "2026-09-15T18:54:57.610Z",
+  "version": 155,
+  "maj": "2026-09-15T18:56:36.590Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -1189,6 +1189,18 @@
       "visuels": [
         "/media/produits/glazed-petals-berries-2.jpg",
         "/media/produits/glazed-petals-berries-1.jpg"
+      ],
+      "masque": false,
+      "nouveaute": false,
+      "vedette": false
+    },
+    "amber-bouquet-butta-drop": {
+      "prix": 30000,
+      "prixBarre": null,
+      "stock": null,
+      "visuels": [
+        "/media/produits/amber-bouquet-butta-drop-2.jpg",
+        "/media/produits/amber-bouquet-butta-drop-1.jpg"
       ],
       "masque": false,
       "nouveaute": false,
