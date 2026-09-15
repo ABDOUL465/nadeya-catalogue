@@ -1,6 +1,6 @@
 {
-  "version": 157,
-  "maj": "2026-09-15T18:57:06.123Z",
+  "version": 158,
+  "maj": "2026-09-15T18:57:16.738Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -1215,6 +1215,18 @@
       "visuels": [
         "/media/produits/hey-bouquet-butta-drop-2.jpg",
         "/media/produits/hey-bouquet-butta-drop-1.jpg"
+      ],
+      "masque": false,
+      "nouveaute": false,
+      "vedette": false
+    },
+    "vanilla-flowers-butta-drop": {
+      "prix": 30000,
+      "prixBarre": null,
+      "stock": null,
+      "visuels": [
+        "/media/produits/vanilla-flowers-butta-drop-2.jpg",
+        "/media/produits/vanilla-flowers-butta-drop-1.jpg"
       ],
       "masque": false,
       "nouveaute": false,
