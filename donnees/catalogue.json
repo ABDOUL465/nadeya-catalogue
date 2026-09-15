@@ -1,6 +1,6 @@
 {
-  "version": 221,
-  "maj": "2026-09-15T19:27:57.917Z",
+  "version": 222,
+  "maj": "2026-09-15T19:28:13.002Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -325,7 +325,7 @@
       "stock": null
     },
     "fenty-skin-treatz-lip-oil-coconut": {
-      "prix": 10000,
+      "prix": 20000,
       "visuels": [
         "/media/produits/fenty-skin-treatz-lip-oil-coconut-2.jpg",
         "/media/produits/fenty-skin-treatz-lip-oil-coconut-1.jpg",
@@ -335,7 +335,9 @@
       ],
       "masque": false,
       "nouveaute": false,
-      "vedette": false
+      "vedette": false,
+      "prixBarre": null,
+      "stock": null
     },
     "elf-glow-reviver-lip-oil-glimmer-princess-cut": {
       "prix": 10000,
