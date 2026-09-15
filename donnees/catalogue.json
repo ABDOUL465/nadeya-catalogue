@@ -1,6 +1,6 @@
 {
-  "version": 189,
-  "maj": "2026-09-15T19:10:44.414Z",
+  "version": 190,
+  "maj": "2026-09-15T19:11:03.737Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -1521,6 +1521,17 @@
       "stock": null,
       "visuels": [
         "/media/produits/ensemble-noir-revers-ivoire-1.jpg"
+      ],
+      "masque": false,
+      "nouveaute": false,
+      "vedette": false
+    },
+    "ensemble-satin-rose-poudre": {
+      "prix": 14000,
+      "prixBarre": null,
+      "stock": null,
+      "visuels": [
+        "/media/produits/ensemble-satin-rose-poudre-1.jpg"
       ],
       "masque": false,
       "nouveaute": false,
