@@ -1,6 +1,6 @@
 {
-  "version": 82,
-  "maj": "2026-09-15T12:46:04.841Z",
+  "version": 83,
+  "maj": "2026-09-15T12:46:58.200Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 99992,
@@ -135,12 +135,15 @@
     "beauty-of-joseon-gel-nettoyant-prune": {
       "prix": 10000,
       "visuels": [
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/beauty-of-joseon-gel-nettoyant-prune-1789476408940-qc0e6v.jpg",
         "/media/produits/beauty-of-joseon-gel-nettoyant-prune-2.jpg",
         "/media/produits/beauty-of-joseon-gel-nettoyant-prune-1.jpg"
       ],
       "masque": false,
       "nouveaute": false,
-      "vedette": false
+      "vedette": false,
+      "prixBarre": null,
+      "stock": null
     },
     "beauty-of-joseon-masque-haricots-rouges": {
       "prix": 10000,
