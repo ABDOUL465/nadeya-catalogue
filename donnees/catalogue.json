@@ -1,6 +1,6 @@
 {
-  "version": 245,
-  "maj": "2026-09-15T19:41:03.515Z",
+  "version": 246,
+  "maj": "2026-09-15T19:41:13.624Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -1765,7 +1765,7 @@
       "vedette": false
     },
     "fenty-skin-treatz-lip-oil-kalahari-melon": {
-      "prix": 20000,
+      "prix": 21000,
       "prixBarre": null,
       "stock": null,
       "visuels": [
