@@ -1,6 +1,6 @@
 {
-  "version": 131,
-  "maj": "2026-09-15T18:49:42.528Z",
+  "version": 132,
+  "maj": "2026-09-15T18:49:50.735Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -517,7 +517,7 @@
       "stock": null
     },
     "velvet-petals-brume": {
-      "prix": 10000,
+      "prix": 15000,
       "visuels": [
         "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/velvet-petals-brume-1789496241601-ibwmpk.jpg",
         "/media/produits/velvet-petals-brume-1.jpg",
