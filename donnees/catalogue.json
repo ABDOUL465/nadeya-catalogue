@@ -1,6 +1,6 @@
 {
-  "version": 170,
-  "maj": "2026-09-15T19:00:36.697Z",
+  "version": 171,
+  "maj": "2026-09-15T19:00:47.214Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -1334,6 +1334,18 @@
       "visuels": [
         "/media/produits/glowmotions-copacabana-bronze-2.jpg",
         "/media/produits/glowmotions-copacabana-bronze-1.jpg"
+      ],
+      "masque": false,
+      "nouveaute": false,
+      "vedette": false
+    },
+    "fruity-musk-bath-body-works": {
+      "prix": 15000,
+      "prixBarre": null,
+      "stock": null,
+      "visuels": [
+        "/media/produits/fruity-musk-bath-body-works-2.jpg",
+        "/media/produits/fruity-musk-bath-body-works-1.jpg"
       ],
       "masque": false,
       "nouveaute": false,
