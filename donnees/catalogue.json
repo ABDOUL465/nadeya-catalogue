@@ -1,6 +1,6 @@
 {
-  "version": 159,
-  "maj": "2026-09-15T18:57:38.314Z",
+  "version": 160,
+  "maj": "2026-09-15T18:57:50.059Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -1239,6 +1239,18 @@
       "visuels": [
         "/media/produits/warm-musk-bath-body-works-2.jpg",
         "/media/produits/warm-musk-bath-body-works-1.jpg"
+      ],
+      "masque": false,
+      "nouveaute": false,
+      "vedette": false
+    },
+    "buttery-sugary-pink-by-victorias-secret": {
+      "prix": 15000,
+      "prixBarre": null,
+      "stock": null,
+      "visuels": [
+        "/media/produits/buttery-sugary-pink-by-victorias-secret-2.jpg",
+        "/media/produits/buttery-sugary-pink-by-victorias-secret-1.jpg"
       ],
       "masque": false,
       "nouveaute": false,
