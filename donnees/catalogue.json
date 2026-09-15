@@ -1,6 +1,6 @@
 {
-  "version": 205,
-  "maj": "2026-09-15T19:16:43.598Z",
+  "version": 206,
+  "maj": "2026-09-15T19:16:55.553Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -1656,6 +1656,18 @@
       "stock": null,
       "visuels": [
         "/media/produits/bougie-gingham-1.jpg"
+      ],
+      "masque": false,
+      "nouveaute": false,
+      "vedette": false
+    },
+    "bougie-strawberry-kiwi": {
+      "prix": 20000,
+      "prixBarre": null,
+      "stock": null,
+      "visuels": [
+        "/media/produits/bougie-strawberry-kiwi-1.jpg",
+        "/media/produits/bougie-strawberry-kiwi-2.jpg"
       ],
       "masque": false,
       "nouveaute": false,
