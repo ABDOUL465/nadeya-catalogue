@@ -1,6 +1,6 @@
 {
-  "version": 185,
-  "maj": "2026-09-15T19:08:47.095Z",
+  "version": 186,
+  "maj": "2026-09-15T19:09:01.724Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -1486,6 +1486,17 @@
       "stock": null,
       "visuels": [
         "/media/produits/caraco-et-short-bordeaux-1.jpg"
+      ],
+      "masque": false,
+      "nouveaute": false,
+      "vedette": false
+    },
+    "ensemble-noir-bandes-logo": {
+      "prix": 13000,
+      "prixBarre": null,
+      "stock": null,
+      "visuels": [
+        "/media/produits/ensemble-noir-bandes-logo-1.jpg"
       ],
       "masque": false,
       "nouveaute": false,
