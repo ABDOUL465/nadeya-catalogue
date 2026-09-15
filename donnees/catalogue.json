@@ -1,6 +1,6 @@
 {
-  "version": 99,
-  "maj": "2026-09-15T18:29:03.544Z",
+  "version": 100,
+  "maj": "2026-09-15T18:30:09.390Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -80,13 +80,16 @@
     "fenty-skin-butta-drop-whipped-oil-salted-caramel": {
       "prix": 10000,
       "visuels": [
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/fenty-skin-butta-drop-whipped-oil-salted-caramel-1789497002100-g2zl5j.jpg",
         "/media/produits/fenty-skin-butta-drop-whipped-oil-salted-caramel-1.jpg",
         "/media/produits/fenty-skin-butta-drop-whipped-oil-salted-caramel-2.jpg",
         "/media/produits/fenty-skin-butta-drop-whipped-oil-salted-caramel-3.jpg"
       ],
       "masque": false,
       "nouveaute": false,
-      "vedette": false
+      "vedette": false,
+      "prixBarre": null,
+      "stock": null
     },
     "beach-shimmer": {
       "prix": 10000,
