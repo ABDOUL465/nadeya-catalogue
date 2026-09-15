@@ -1,6 +1,6 @@
 {
-  "version": 115,
-  "maj": "2026-09-15T18:47:10.892Z",
+  "version": 116,
+  "maj": "2026-09-15T18:47:21.807Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -605,14 +605,16 @@
       "stock": null
     },
     "velvet-berry-creme": {
-      "prix": 10000,
+      "prix": 15000,
       "visuels": [
         "/media/produits/velvet-berry-creme-2.jpg",
         "/media/produits/velvet-berry-creme-1.jpg"
       ],
       "masque": false,
       "nouveaute": true,
-      "vedette": false
+      "vedette": false,
+      "prixBarre": null,
+      "stock": null
     },
     "fenty-killawatt-highlighter-duo-ginger-binge-moscow-mule": {
       "prix": 10000,
