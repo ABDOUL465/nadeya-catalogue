@@ -1,6 +1,6 @@
 {
-  "version": 173,
-  "maj": "2026-09-15T19:01:06.837Z",
+  "version": 174,
+  "maj": "2026-09-15T19:01:20.641Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -1370,6 +1370,18 @@
       "visuels": [
         "/media/produits/touch-of-gold-bath-body-works-2.jpg",
         "/media/produits/touch-of-gold-bath-body-works-1.jpg"
+      ],
+      "masque": false,
+      "nouveaute": false,
+      "vedette": false
+    },
+    "platinum-bath-body-works": {
+      "prix": 15000,
+      "prixBarre": null,
+      "stock": null,
+      "visuels": [
+        "/media/produits/platinum-bath-body-works-2.jpg",
+        "/media/produits/platinum-bath-body-works-1.jpg"
       ],
       "masque": false,
       "nouveaute": false,
