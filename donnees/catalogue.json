@@ -1,6 +1,6 @@
 {
-  "version": 228,
-  "maj": "2026-09-15T19:30:41.927Z",
+  "version": 229,
+  "maj": "2026-09-15T19:31:35.447Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -303,15 +303,17 @@
     "rare-beauty-soft-pinch-powder-blush-truth": {
       "prix": 10000,
       "visuels": [
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/rare-beauty-soft-pinch-powder-blush-truth-1789500680681-9xscbo.jpg",
         "/media/produits/rare-beauty-soft-pinch-powder-blush-truth-4.jpg",
-        "/media/produits/rare-beauty-soft-pinch-powder-blush-truth-1.jpg",
         "/media/produits/rare-beauty-soft-pinch-powder-blush-truth-2.jpg",
         "/media/produits/rare-beauty-soft-pinch-powder-blush-truth-3.jpg",
         "/media/produits/rare-beauty-soft-pinch-powder-blush-truth-5.jpg"
       ],
       "masque": false,
       "nouveaute": false,
-      "vedette": false
+      "vedette": false,
+      "prixBarre": null,
+      "stock": null
     },
     "kylie-skin-lip-butter-pomegranate": {
       "prix": 20000,
