@@ -1,6 +1,6 @@
 {
-  "version": 180,
-  "maj": "2026-09-15T19:07:01.988Z",
+  "version": 181,
+  "maj": "2026-09-15T19:07:20.132Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -1431,6 +1431,17 @@
       "stock": null,
       "visuels": [
         "/media/produits/debardeur-blanc-et-short-rose-1.jpg"
+      ],
+      "masque": false,
+      "nouveaute": false,
+      "vedette": false
+    },
+    "ensemble-creme-brassiere-et-short": {
+      "prix": 15000,
+      "prixBarre": null,
+      "stock": null,
+      "visuels": [
+        "/media/produits/ensemble-creme-brassiere-et-short-1.jpg"
       ],
       "masque": false,
       "nouveaute": false,
