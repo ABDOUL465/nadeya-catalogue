@@ -1,6 +1,6 @@
 {
-  "version": 129,
-  "maj": "2026-09-15T18:49:26.404Z",
+  "version": 130,
+  "maj": "2026-09-15T18:49:34.549Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -925,6 +925,18 @@
       "visuels": [
         "/media/produits/coconut-passion-brume-2.jpg",
         "/media/produits/coconut-passion-brume-1.jpg"
+      ],
+      "masque": false,
+      "nouveaute": false,
+      "vedette": false
+    },
+    "golden-saffron-amber-brume": {
+      "prix": 15000,
+      "prixBarre": null,
+      "stock": null,
+      "visuels": [
+        "/media/produits/golden-saffron-amber-brume-2.jpg",
+        "/media/produits/golden-saffron-amber-brume-1.jpg"
       ],
       "masque": false,
       "nouveaute": false,
