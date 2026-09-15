@@ -1,6 +1,6 @@
 {
-  "version": 219,
-  "maj": "2026-09-15T19:25:59.812Z",
+  "version": 220,
+  "maj": "2026-09-15T19:27:48.007Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -1729,6 +1729,21 @@
         "/media/produits/fenty-gloss-bomb-oil-razzberry-jamz-1.jpg",
         "/media/produits/fenty-gloss-bomb-oil-razzberry-jamz-2.jpg",
         "/media/produits/fenty-gloss-bomb-oil-razzberry-jamz-3.jpg"
+      ],
+      "masque": false,
+      "nouveaute": false,
+      "vedette": false
+    },
+    "fenty-skin-treatz-lip-oil-barbados-cherry": {
+      "prix": 20000,
+      "prixBarre": null,
+      "stock": null,
+      "visuels": [
+        "/media/produits/fenty-skin-treatz-lip-oil-barbados-cherry-1.jpg",
+        "/media/produits/fenty-skin-treatz-lip-oil-barbados-cherry-2.jpg",
+        "/media/produits/fenty-skin-treatz-lip-oil-barbados-cherry-3.jpg",
+        "/media/produits/fenty-skin-treatz-lip-oil-barbados-cherry-4.jpg",
+        "/media/produits/fenty-skin-treatz-lip-oil-barbados-cherry-5.jpg"
       ],
       "masque": false,
       "nouveaute": false,
