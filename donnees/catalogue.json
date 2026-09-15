@@ -1,6 +1,6 @@
 {
-  "version": 137,
-  "maj": "2026-09-15T18:50:43.969Z",
+  "version": 138,
+  "maj": "2026-09-15T18:51:01.694Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -1009,6 +1009,18 @@
       "visuels": [
         "/media/produits/beach-shimmer-brume-shimmer-2.jpg",
         "/media/produits/beach-shimmer-brume-shimmer-1.jpg"
+      ],
+      "masque": false,
+      "nouveaute": false,
+      "vedette": false
+    },
+    "midnight-bloom-brume": {
+      "prix": 15000,
+      "prixBarre": null,
+      "stock": null,
+      "visuels": [
+        "/media/produits/midnight-bloom-brume-2.jpg",
+        "/media/produits/midnight-bloom-brume-1.jpg"
       ],
       "masque": false,
       "nouveaute": false,
