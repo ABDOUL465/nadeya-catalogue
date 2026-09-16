@@ -1,6 +1,6 @@
 {
-  "version": 293,
-  "maj": "2026-09-16T00:23:05.158Z",
+  "version": 294,
+  "maj": "2026-09-16T00:42:36.075Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -1985,7 +1985,7 @@
       "vedette": false
     },
     "fenty-killawatt-highlighter-n-01-trophy-wife": {
-      "prix": 28000,
+      "prix": 288000,
       "prixBarre": null,
       "stock": null,
       "visuels": [
