@@ -1,6 +1,6 @@
 {
-  "version": 290,
-  "maj": "2026-09-16T00:20:08.434Z",
+  "version": 291,
+  "maj": "2026-09-16T00:21:27.657Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -16,7 +16,7 @@
     },
     "glowmotions-carnaval-queen": {
       "prix": 35000,
-      "prixBarre": 75000,
+      "prixBarre": 40000,
       "visuels": [
         "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/glowmotions-carnaval-queen-1789496477496-wykj0e.jpg",
         "/media/produits/glowmotions-carnaval-queen-1.jpg",
