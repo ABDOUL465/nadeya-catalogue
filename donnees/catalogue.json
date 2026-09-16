@@ -1,6 +1,6 @@
 {
-  "version": 298,
-  "maj": "2026-09-16T09:25:06.532Z",
+  "version": 299,
+  "maj": "2026-09-16T09:34:54.166Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -81,11 +81,11 @@
       "contenances": [
         {
           "volume": "200 ml",
-          "prix": 12000
+          "prix": 38000
         },
         {
           "volume": "500 ml",
-          "prix": 22000
+          "prix": 38000
         }
       ]
     },
