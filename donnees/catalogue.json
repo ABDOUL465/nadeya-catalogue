@@ -1,6 +1,6 @@
 {
-  "version": 296,
-  "maj": "2026-09-16T00:43:06.331Z",
+  "version": 297,
+  "maj": "2026-09-16T00:43:19.560Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -2001,7 +2001,7 @@
       "vedette": false
     },
     "fenty-killawatt-highlighter-n-05-wattabrat": {
-      "prix": 288000,
+      "prix": 28000,
       "prixBarre": null,
       "stock": null,
       "visuels": [
