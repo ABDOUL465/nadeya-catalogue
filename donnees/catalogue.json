@@ -1,6 +1,6 @@
 {
-  "version": 301,
-  "maj": "2026-09-16T09:57:37.054Z",
+  "version": 302,
+  "maj": "2026-09-16T15:53:30.699Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -2216,6 +2216,18 @@
       "masque": false,
       "nouveaute": false,
       "vedette": true
+    },
+    "fenty-skin-lip-oil-guava": {
+      "prix": 21000,
+      "prixBarre": null,
+      "stock": null,
+      "visuels": [
+        "/media/produits/fenty-skin-lip-oil-guava-1.jpg",
+        "/media/produits/fenty-skin-lip-oil-guava-2.jpg"
+      ],
+      "masque": false,
+      "nouveaute": false,
+      "vedette": false
     }
   },
   "ajouts": []
