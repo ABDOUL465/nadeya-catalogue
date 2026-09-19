@@ -1,6 +1,6 @@
 {
-  "version": 311,
-  "maj": "2026-09-19T00:04:33.619Z",
+  "version": 312,
+  "maj": "2026-09-19T00:06:04.300Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -641,7 +641,7 @@
     },
     "medicube-collagen-night-wrapping-mask": {
       "prix": 21000,
-      "prixBarre": 23000,
+      "prixBarre": null,
       "visuels": [
         "/media/produits/medicube-collagen-night-wrapping-mask-3.jpg",
         "/media/produits/medicube-collagen-night-wrapping-mask-2.jpg",
