@@ -1,6 +1,6 @@
 {
-  "version": 310,
-  "maj": "2026-09-19T00:04:10.640Z",
+  "version": 311,
+  "maj": "2026-09-19T00:04:33.619Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -438,7 +438,7 @@
     },
     "coffret-brumes-victorias-secret": {
       "prix": 50000,
-      "prixBarre": 60000,
+      "prixBarre": null,
       "visuels": [
         "/media/produits/coffret-brumes-victorias-secret-4.jpg",
         "/media/produits/coffret-brumes-victorias-secret-2.jpg",
