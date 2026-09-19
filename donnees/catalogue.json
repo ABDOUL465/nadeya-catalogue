@@ -1,6 +1,6 @@
 {
-  "version": 306,
-  "maj": "2026-09-18T23:59:53.715Z",
+  "version": 307,
+  "maj": "2026-09-19T00:02:46.327Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -512,14 +512,15 @@
     },
     "velvet-berry-creme-brume": {
       "prix": 15000,
-      "prixBarre": 18000,
+      "prixBarre": null,
       "visuels": [
         "/media/produits/velvet-berry-creme-brume-2.jpg",
         "/media/produits/velvet-berry-creme-brume-1.jpg"
       ],
       "masque": false,
       "nouveaute": false,
-      "vedette": true
+      "vedette": true,
+      "stock": null
     },
     "bougie-touch-of-gold": {
       "prix": 20000,
