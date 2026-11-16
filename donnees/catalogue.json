@@ -1,6 +1,6 @@
 {
-  "version": 312,
-  "maj": "2026-09-19T00:06:04.300Z",
+  "version": 313,
+  "maj": "2026-11-16T14:47:54.842Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -2068,7 +2068,7 @@
       "vedette": false
     },
     "victorias-secret-gommage-corps-feel-bright-white-peach-mango": {
-      "prix": 15000,
+      "prix": 10500,
       "prixBarre": null,
       "stock": null,
       "visuels": [
