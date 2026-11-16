@@ -1,6 +1,6 @@
 {
-  "version": 315,
-  "maj": "2026-11-16T14:51:58.047Z",
+  "version": 316,
+  "maj": "2026-11-16T14:54:43.322Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -2081,9 +2081,9 @@
       "vedette": false
     },
     "victorias-secret-gommage-corps-feel-comfort-vanilla-orchid-sandalwood": {
-      "prix": 15000,
+      "prix": 10500,
       "prixBarre": null,
-      "stock": null,
+      "stock": 1,
       "visuels": [
         "/media/produits/victorias-secret-gommage-corps-feel-comfort-vanilla-orchid-sandalwood-1.jpg",
         "/media/produits/victorias-secret-gommage-corps-feel-comfort-vanilla-orchid-sandalwood-2.jpg",
