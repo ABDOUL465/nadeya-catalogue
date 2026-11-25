@@ -1,6 +1,6 @@
 {
-  "version": 329,
-  "maj": "2026-11-25T21:52:30.634Z",
+  "version": 330,
+  "maj": "2026-11-25T21:52:47.113Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -2419,6 +2419,18 @@
       "visuels": [
         "/media/produits/fenty-gloss-bomb-heat-riri-heat-1.jpg",
         "/media/produits/fenty-gloss-bomb-heat-riri-heat-2.jpg"
+      ],
+      "masque": false,
+      "nouveaute": false,
+      "vedette": false
+    },
+    "fenty-gloss-bomb-heat-lavender-savage": {
+      "prix": 18000,
+      "prixBarre": null,
+      "stock": null,
+      "visuels": [
+        "/media/produits/fenty-gloss-bomb-heat-lavender-savage-1.jpg",
+        "/media/produits/fenty-gloss-bomb-heat-lavender-savage-2.jpg"
       ],
       "masque": false,
       "nouveaute": false,
