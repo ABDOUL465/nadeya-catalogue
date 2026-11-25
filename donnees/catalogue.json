@@ -1,6 +1,6 @@
 {
-  "version": 323,
-  "maj": "2026-11-25T21:48:11.889Z",
+  "version": 324,
+  "maj": "2026-11-25T21:49:02.677Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -2349,6 +2349,17 @@
         "/media/produits/fenty-gloss-bomb-prismatique-moonstone-mischief-1.jpg",
         "/media/produits/fenty-gloss-bomb-prismatique-moonstone-mischief-2.jpg",
         "/media/produits/fenty-gloss-bomb-prismatique-moonstone-mischief-3.jpg"
+      ],
+      "masque": false,
+      "nouveaute": false,
+      "vedette": false
+    },
+    "eos-shea-better-24h-moisture-lotion-pumpkin-chai": {
+      "prix": 15000,
+      "prixBarre": null,
+      "stock": null,
+      "visuels": [
+        "/media/produits/eos-shea-better-24h-moisture-lotion-pumpkin-chai-1.jpg"
       ],
       "masque": false,
       "nouveaute": false,
