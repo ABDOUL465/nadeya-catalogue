@@ -1,6 +1,6 @@
 {
-  "version": 335,
-  "maj": "2026-11-25T22:09:55.101Z",
+  "version": 336,
+  "maj": "2026-11-25T22:11:18.258Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -2466,6 +2466,17 @@
       "stock": null,
       "visuels": [
         "/media/produits/fenty-gloss-bomb-rouge-profond-1.jpg"
+      ],
+      "masque": false,
+      "nouveaute": false,
+      "vedette": false
+    },
+    "fenty-skin-butta-drop-lait-hydratant": {
+      "prix": 30000,
+      "prixBarre": null,
+      "stock": null,
+      "visuels": [
+        "/media/produits/fenty-skin-butta-drop-lait-hydratant-1.jpg"
       ],
       "masque": false,
       "nouveaute": false,
