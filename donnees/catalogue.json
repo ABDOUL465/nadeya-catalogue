@@ -1,6 +1,6 @@
 {
-  "version": 334,
-  "maj": "2026-11-25T22:00:56.067Z",
+  "version": 335,
+  "maj": "2026-11-25T22:09:55.101Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -2425,7 +2425,7 @@
       "vedette": false
     },
     "fenty-gloss-bomb-heat-lavender-savage": {
-      "prix": 18000,
+      "prix": 20000,
       "prixBarre": null,
       "stock": null,
       "visuels": [
