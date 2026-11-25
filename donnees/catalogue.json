@@ -1,6 +1,6 @@
 {
-  "version": 332,
-  "maj": "2026-11-25T21:55:57.752Z",
+  "version": 333,
+  "maj": "2026-11-25T21:56:22.582Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -2455,6 +2455,17 @@
       "visuels": [
         "/media/produits/fenty-gloss-bomb-heat-hot-cherry-1.jpg",
         "/media/produits/fenty-gloss-bomb-heat-hot-cherry-2.jpg"
+      ],
+      "masque": false,
+      "nouveaute": false,
+      "vedette": false
+    },
+    "fenty-gloss-bomb-rouge-profond": {
+      "prix": 20000,
+      "prixBarre": null,
+      "stock": null,
+      "visuels": [
+        "/media/produits/fenty-gloss-bomb-rouge-profond-1.jpg"
       ],
       "masque": false,
       "nouveaute": false,
