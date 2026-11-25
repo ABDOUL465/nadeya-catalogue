@@ -1,6 +1,6 @@
 {
-  "version": 318,
-  "maj": "2026-11-25T21:44:39.530Z",
+  "version": 319,
+  "maj": "2026-11-25T21:45:17.942Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -2289,6 +2289,17 @@
       "visuels": [
         "/media/produits/sephora-retractable-brow-pencil-06-soft-charcoal-1.jpg",
         "/media/produits/sephora-retractable-brow-pencil-06-soft-charcoal-2.jpg"
+      ],
+      "masque": false,
+      "nouveaute": false,
+      "vedette": false
+    },
+    "fenty-skin-cherry-dub-tonique-bha": {
+      "prix": 30000,
+      "prixBarre": null,
+      "stock": null,
+      "visuels": [
+        "/media/produits/fenty-skin-cherry-dub-tonique-bha-1.jpg"
       ],
       "masque": false,
       "nouveaute": false,
