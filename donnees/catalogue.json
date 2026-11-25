@@ -1,6 +1,6 @@
 {
-  "version": 322,
-  "maj": "2026-11-25T21:47:44.826Z",
+  "version": 323,
+  "maj": "2026-11-25T21:48:11.889Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -2336,6 +2336,19 @@
       "visuels": [
         "/media/produits/fenty-gloss-bomb-prismatique-wattabrat-1.jpg",
         "/media/produits/fenty-gloss-bomb-prismatique-wattabrat-2.jpg"
+      ],
+      "masque": false,
+      "nouveaute": false,
+      "vedette": false
+    },
+    "fenty-gloss-bomb-prismatique-moonstone-mischief": {
+      "prix": 20000,
+      "prixBarre": null,
+      "stock": null,
+      "visuels": [
+        "/media/produits/fenty-gloss-bomb-prismatique-moonstone-mischief-1.jpg",
+        "/media/produits/fenty-gloss-bomb-prismatique-moonstone-mischief-2.jpg",
+        "/media/produits/fenty-gloss-bomb-prismatique-moonstone-mischief-3.jpg"
       ],
       "masque": false,
       "nouveaute": false,
