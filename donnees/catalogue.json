@@ -1,6 +1,6 @@
 {
-  "version": 317,
-  "maj": "2026-11-25T21:44:12.385Z",
+  "version": 318,
+  "maj": "2026-11-25T21:44:39.530Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -2280,6 +2280,18 @@
       ],
       "masque": false,
       "nouveaute": true,
+      "vedette": false
+    },
+    "sephora-retractable-brow-pencil-06-soft-charcoal": {
+      "prix": 18000,
+      "prixBarre": null,
+      "stock": null,
+      "visuels": [
+        "/media/produits/sephora-retractable-brow-pencil-06-soft-charcoal-1.jpg",
+        "/media/produits/sephora-retractable-brow-pencil-06-soft-charcoal-2.jpg"
+      ],
+      "masque": false,
+      "nouveaute": false,
       "vedette": false
     }
   },
