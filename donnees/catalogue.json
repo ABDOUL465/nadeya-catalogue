@@ -1,6 +1,6 @@
 {
-  "version": 328,
-  "maj": "2026-11-25T21:51:44.244Z",
+  "version": 329,
+  "maj": "2026-11-25T21:52:30.634Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -2407,6 +2407,18 @@
       "visuels": [
         "/media/produits/cofier-faux-cils-auto-adhesifs-3d-nova-2.jpg",
         "/media/produits/cofier-faux-cils-auto-adhesifs-3d-nova-1.jpg"
+      ],
+      "masque": false,
+      "nouveaute": false,
+      "vedette": false
+    },
+    "fenty-gloss-bomb-heat-riri-heat": {
+      "prix": 18000,
+      "prixBarre": null,
+      "stock": null,
+      "visuels": [
+        "/media/produits/fenty-gloss-bomb-heat-riri-heat-1.jpg",
+        "/media/produits/fenty-gloss-bomb-heat-riri-heat-2.jpg"
       ],
       "masque": false,
       "nouveaute": false,
