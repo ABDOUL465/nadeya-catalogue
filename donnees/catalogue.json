@@ -1,6 +1,6 @@
 {
-  "version": 337,
-  "maj": "2026-11-26T14:18:44.735Z",
+  "version": 338,
+  "maj": "2026-11-26T14:19:00.117Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -2488,6 +2488,17 @@
       "stock": null,
       "visuels": [
         "/media/produits/lemme-gummies-glow-1.jpg"
+      ],
+      "masque": false,
+      "nouveaute": false,
+      "vedette": false
+    },
+    "lemme-gummies-skin": {
+      "prix": 27500,
+      "prixBarre": null,
+      "stock": null,
+      "visuels": [
+        "/media/produits/lemme-gummies-skin-1.jpg"
       ],
       "masque": false,
       "nouveaute": false,
