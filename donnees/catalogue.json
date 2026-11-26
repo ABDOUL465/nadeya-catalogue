@@ -1,6 +1,6 @@
 {
-  "version": 343,
-  "maj": "2026-11-26T14:20:37.394Z",
+  "version": 344,
+  "maj": "2026-11-26T14:20:57.449Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -1768,7 +1768,7 @@
       "vedette": false
     },
     "fenty-gloss-bomb-oil-razzberry-jamz": {
-      "prix": 20000,
+      "prix": 25000,
       "prixBarre": null,
       "stock": null,
       "visuels": [
