@@ -1,6 +1,6 @@
 {
-  "version": 355,
-  "maj": "2026-11-26T15:32:52.830Z",
+  "version": 356,
+  "maj": "2026-11-26T15:33:13.191Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -2226,7 +2226,7 @@
       "vedette": true
     },
     "fenty-skin-lip-oil-guava": {
-      "prix": 21000,
+      "prix": 25000,
       "prixBarre": null,
       "stock": null,
       "visuels": [
