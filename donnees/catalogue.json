@@ -1,6 +1,6 @@
 {
-  "version": 342,
-  "maj": "2026-11-26T14:20:23.537Z",
+  "version": 343,
+  "maj": "2026-11-26T14:20:37.394Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -1755,7 +1755,7 @@
       "vedette": false
     },
     "fenty-gloss-bomb-oil-miss-jellyfish": {
-      "prix": 20000,
+      "prix": 25000,
       "prixBarre": null,
       "stock": null,
       "visuels": [
