@@ -1,6 +1,6 @@
 {
-  "version": 349,
-  "maj": "2026-11-26T14:22:33.701Z",
+  "version": 350,
+  "maj": "2026-11-26T14:22:47.391Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -2330,7 +2330,7 @@
       "vedette": false
     },
     "fenty-gloss-bomb-prismatique-wattabrat": {
-      "prix": 20000,
+      "prix": 25000,
       "prixBarre": null,
       "stock": null,
       "visuels": [
