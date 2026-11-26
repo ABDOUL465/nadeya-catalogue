@@ -1,6 +1,6 @@
 {
-  "version": 336,
-  "maj": "2026-11-25T22:11:18.258Z",
+  "version": 337,
+  "maj": "2026-11-26T14:18:44.735Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -2477,6 +2477,17 @@
       "stock": null,
       "visuels": [
         "/media/produits/fenty-skin-butta-drop-lait-hydratant-1.jpg"
+      ],
+      "masque": false,
+      "nouveaute": false,
+      "vedette": false
+    },
+    "lemme-gummies-glow": {
+      "prix": 27500,
+      "prixBarre": null,
+      "stock": null,
+      "visuels": [
+        "/media/produits/lemme-gummies-glow-1.jpg"
       ],
       "masque": false,
       "nouveaute": false,
