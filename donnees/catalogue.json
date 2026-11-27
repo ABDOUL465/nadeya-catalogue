@@ -1,6 +1,6 @@
 {
-  "version": 435,
-  "maj": "2026-11-27T08:43:07.218Z",
+  "version": 436,
+  "maj": "2026-11-27T08:43:44.143Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -2371,9 +2371,9 @@
       "prixBarre": null,
       "stock": null,
       "visuels": [
-        "/media/produits/fenty-gloss-bomb-prismatique-moonstone-mischief-1.jpg",
-        "/media/produits/fenty-gloss-bomb-prismatique-moonstone-mischief-2.jpg",
-        "/media/produits/fenty-gloss-bomb-prismatique-moonstone-mischief-3.jpg"
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/fenty-gloss-bomb-prismatique-moonstone-mischief-1795769014814-4zq30w.jpg",
+        "/media/produits/fenty-gloss-bomb-prismatique-moonstone-mischief-3.jpg",
+        "/media/produits/fenty-gloss-bomb-prismatique-moonstone-mischief-2.jpg"
       ],
       "masque": false,
       "nouveaute": false,
