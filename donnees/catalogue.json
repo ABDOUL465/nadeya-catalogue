@@ -1,6 +1,6 @@
 {
-  "version": 425,
-  "maj": "2026-11-27T08:06:09.856Z",
+  "version": 426,
+  "maj": "2026-11-27T08:07:44.296Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -3123,8 +3123,7 @@
       "prixBarre": null,
       "stock": null,
       "visuels": [
-        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/fenty-beauty-fond-de-teint-1795764668337-yqhqr6.jpg",
-        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/fenty-beauty-fond-de-teint-1795764670228-p2rnyk.jpg"
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/fenty-beauty-fond-de-teint-1795764668337-yqhqr6.jpg"
       ],
       "masque": false,
       "nouveaute": false,
