@@ -1,6 +1,6 @@
 {
-  "version": 412,
-  "maj": "2026-11-27T07:15:32.814Z",
+  "version": 413,
+  "maj": "2026-11-27T07:17:45.226Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -3068,6 +3068,20 @@
       "visuels": [
         "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/elf-camo-cc-cream-1795763698246-7al4d9.png",
         "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/elf-camo-cc-cream-1795763700285-ujpw2k.webp"
+      ],
+      "masque": false,
+      "nouveaute": false,
+      "vedette": false
+    },
+    "elf-power-grip-primer": {
+      "prix": 10000,
+      "prixBarre": null,
+      "stock": null,
+      "visuels": [
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/elf-power-grip-primer-1795763849473-plcxz0.jpg",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/elf-power-grip-primer-1795763847642-rob6t1.jpg",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/elf-power-grip-primer-1795763845727-1j1gb9.jpg",
+        "/media/produits/elf-power-grip-primer-1.jpg"
       ],
       "masque": false,
       "nouveaute": false,
