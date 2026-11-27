@@ -1,6 +1,6 @@
 {
-  "version": 372,
-  "maj": "2026-11-27T03:47:41.384Z",
+  "version": 373,
+  "maj": "2026-11-27T03:51:11.450Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -2678,6 +2678,18 @@
         "/media/produits/fenty-skin-soin-stick-lavande-1.jpg",
         "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/fenty-skin-soin-stick-lavande-1795749892465-p0zmzw.jpg",
         "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/fenty-skin-soin-stick-lavande-1795749904236-419v3i.jpg"
+      ],
+      "masque": false,
+      "nouveaute": false,
+      "vedette": false
+    },
+    "tree-hut-shea-sugar-scrub-vanilla": {
+      "prix": 10500,
+      "prixBarre": null,
+      "stock": null,
+      "visuels": [
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/tree-hut-shea-sugar-scrub-vanilla-1795751467262-0lmfzk.jpg",
+        "/media/produits/tree-hut-shea-sugar-scrub-vanilla-1.jpg"
       ],
       "masque": false,
       "nouveaute": false,
