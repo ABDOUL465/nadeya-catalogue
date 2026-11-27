@@ -1,6 +1,6 @@
 {
-  "version": 378,
-  "maj": "2026-11-27T04:25:35.299Z",
+  "version": 379,
+  "maj": "2026-11-27T04:28:56.784Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -2730,6 +2730,21 @@
         "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/fenty-skin-pot-de-soin-1795752789450-d50295.jpg",
         "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/fenty-skin-pot-de-soin-1795752793012-4g9n78.jpg",
         "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/fenty-skin-pot-de-soin-1795752794656-9nhxg8.jpg"
+      ],
+      "masque": false,
+      "nouveaute": false,
+      "vedette": false
+    },
+    "sol-de-janeiro-body-badalada": {
+      "prix": 25000,
+      "prixBarre": null,
+      "stock": null,
+      "visuels": [
+        "/media/produits/sol-de-janeiro-body-badalada-1.jpg",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/sol-de-janeiro-body-badalada-1795753716082-xxcwcr.jpg",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/sol-de-janeiro-body-badalada-1795753713383-kee781.jpg",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/sol-de-janeiro-body-badalada-1795753718393-tjhrmh.jpg",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/sol-de-janeiro-body-badalada-1795753720470-jq3sps.jpg"
       ],
       "masque": false,
       "nouveaute": false,
