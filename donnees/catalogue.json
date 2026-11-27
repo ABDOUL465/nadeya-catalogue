@@ -1,6 +1,6 @@
 {
-  "version": 359,
-  "maj": "2026-11-27T02:13:32.665Z",
+  "version": 360,
+  "maj": "2026-11-27T02:14:14.209Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -2557,6 +2557,18 @@
       "visuels": [
         "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/eos-brume-hiver-cotton-candy-fleur-1795745582727-d3yg2n.png",
         "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/eos-brume-hiver-cotton-candy-fleur-1795745585755-uc3rmd.jpg"
+      ],
+      "masque": false,
+      "nouveaute": false,
+      "vedette": false
+    },
+    "eos-brume-hiver-cozy-comfort": {
+      "prix": 15000,
+      "prixBarre": null,
+      "stock": null,
+      "visuels": [
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/eos-brume-hiver-cozy-comfort-1795745642494-i5tq60.png",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/eos-brume-hiver-cozy-comfort-1795745646598-d2y6d3.jpg"
       ],
       "masque": false,
       "nouveaute": false,
