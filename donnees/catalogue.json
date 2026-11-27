@@ -1,6 +1,6 @@
 {
-  "version": 422,
-  "maj": "2026-11-27T08:00:37.045Z",
+  "version": 423,
+  "maj": "2026-11-27T08:01:54.926Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -3165,9 +3165,10 @@
       "prixBarre": null,
       "stock": null,
       "visuels": [
-        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/fenty-match-stix-espresso-1795765951154-1pfg19.png",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/fenty-match-stix-espresso-1795766467722-ijb7ke.jpg",
         "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/fenty-match-stix-espresso-1795765955552-7q0jxl.jpg",
         "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/fenty-match-stix-espresso-1795765953580-0bu9f9.png",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/fenty-match-stix-espresso-1795766502287-avs7wq.webp",
         "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/fenty-match-stix-espresso-1795766042454-5mjka2.jpg",
         "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/fenty-match-stix-espresso-1795766044531-4w8ge6.jpg",
         "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/fenty-match-stix-espresso-1795766046281-4ys9pc.jpg"
