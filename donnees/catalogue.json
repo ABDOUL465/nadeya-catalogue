@@ -1,6 +1,6 @@
 {
-  "version": 406,
-  "maj": "2026-11-27T06:30:09.964Z",
+  "version": 407,
+  "maj": "2026-11-27T06:33:46.401Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -3005,6 +3005,26 @@
         "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/huda-easy-bake-poudre-pink-pumpkin-1795760958116-6cwky7.webp",
         "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/huda-easy-bake-poudre-pink-pumpkin-1795760960465-58gckc.webp",
         "/media/produits/huda-easy-bake-poudre-pink-pumpkin-2.jpg"
+      ],
+      "masque": false,
+      "nouveaute": false,
+      "vedette": false
+    },
+    "huda-easy-bake-poudre-pink-ube": {
+      "prix": 40000,
+      "prixBarre": null,
+      "stock": null,
+      "visuels": [
+        "/media/produits/huda-easy-bake-poudre-pink-ube-1.jpg",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/huda-easy-bake-poudre-pink-ube-1795761171487-580y1b.jpg",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/huda-easy-bake-poudre-pink-ube-1795761169331-9ezd1v.jpg",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/huda-easy-bake-poudre-pink-ube-1795761174045-nzfo2a.jpg",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/huda-easy-bake-poudre-pink-ube-1795761178696-3423kp.jpg",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/huda-easy-bake-poudre-pink-ube-1795761196334-e9we87.jpg",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/huda-easy-bake-poudre-pink-ube-1795761176290-wjsovi.jpg",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/huda-easy-bake-poudre-pink-ube-1795761198469-v2qgwv.jpg",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/huda-easy-bake-poudre-pink-ube-1795761200717-9y7l6y.jpg",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/huda-easy-bake-poudre-pink-ube-1795761202951-gfuobu.jpg"
       ],
       "masque": false,
       "nouveaute": false,
