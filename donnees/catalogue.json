@@ -1,6 +1,6 @@
 {
-  "version": 413,
-  "maj": "2026-11-27T07:17:45.226Z",
+  "version": 414,
+  "maj": "2026-11-27T07:21:42.434Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -3082,6 +3082,23 @@
         "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/elf-power-grip-primer-1795763847642-rob6t1.jpg",
         "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/elf-power-grip-primer-1795763845727-1j1gb9.jpg",
         "/media/produits/elf-power-grip-primer-1.jpg"
+      ],
+      "masque": false,
+      "nouveaute": false,
+      "vedette": false
+    },
+    "elf-power-grip-matte-primer": {
+      "prix": 12000,
+      "prixBarre": null,
+      "stock": null,
+      "visuels": [
+        "/media/produits/elf-power-grip-matte-primer-1.jpg",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/elf-power-grip-matte-primer-1795764044792-72cq8f.webp",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/elf-power-grip-matte-primer-1795764046622-cqi2sj.webp",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/elf-power-grip-matte-primer-1795764043232-t302kq.webp",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/elf-power-grip-matte-primer-1795764041383-as44my.webp",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/elf-power-grip-matte-primer-1795764048642-rcm8kb.webp",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/elf-power-grip-matte-primer-1795764050289-eqa8qb.webp"
       ],
       "masque": false,
       "nouveaute": false,
