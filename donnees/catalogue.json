@@ -1,6 +1,6 @@
 {
-  "version": 430,
-  "maj": "2026-11-27T08:34:13.094Z",
+  "version": 431,
+  "maj": "2026-11-27T08:35:07.839Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -2457,7 +2457,7 @@
       "prixBarre": null,
       "stock": null,
       "visuels": [
-        "/media/produits/fenty-gloss-bomb-heat-lavender-savage-1.jpg",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/fenty-gloss-bomb-heat-lavender-savage-1795768502213-ldtgnp.jpg",
         "/media/produits/fenty-gloss-bomb-heat-lavender-savage-2.jpg"
       ],
       "masque": false,
