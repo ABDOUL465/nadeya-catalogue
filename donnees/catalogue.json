@@ -1,6 +1,6 @@
 {
-  "version": 402,
-  "maj": "2026-11-27T06:00:43.023Z",
+  "version": 403,
+  "maj": "2026-11-27T06:09:39.158Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -2934,6 +2934,21 @@
         "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/sephora-total-set-pinceaux-1795759023572-2fpscv.webp",
         "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/sephora-total-set-pinceaux-1795759039866-d71kau.webp",
         "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/sephora-total-set-pinceaux-1795759038377-07w3pk.webp"
+      ],
+      "masque": false,
+      "nouveaute": false,
+      "vedette": false
+    },
+    "elf-power-grip-dewy-setting-spray": {
+      "prix": 10000,
+      "prixBarre": null,
+      "stock": null,
+      "visuels": [
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/elf-power-grip-dewy-setting-spray-1795759752385-vvpqtu.jpg",
+        "/media/produits/elf-power-grip-dewy-setting-spray-1.jpg",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/elf-power-grip-dewy-setting-spray-1795759756150-1k8etl.jpg",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/elf-power-grip-dewy-setting-spray-1795759757890-2btbq0.jpg",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/elf-power-grip-dewy-setting-spray-1795759754221-0kjege.jpg"
       ],
       "masque": false,
       "nouveaute": false,
