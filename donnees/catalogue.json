@@ -1,6 +1,6 @@
 {
-  "version": 444,
-  "maj": "2026-11-27T09:05:15.279Z",
+  "version": 445,
+  "maj": "2026-11-27T09:06:03.138Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -249,10 +249,10 @@
       "prix": 10000,
       "visuels": [
         "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/elf-glow-reviver-lip-oil-jam-session-1789500188729-0uwlag.jpg",
+        "/media/produits/elf-glow-reviver-lip-oil-jam-session-5.jpg",
         "/media/produits/elf-glow-reviver-lip-oil-jam-session-1.jpg",
         "/media/produits/elf-glow-reviver-lip-oil-jam-session-2.jpg",
         "/media/produits/elf-glow-reviver-lip-oil-jam-session-4.jpg",
-        "/media/produits/elf-glow-reviver-lip-oil-jam-session-5.jpg",
         "/media/produits/elf-glow-reviver-lip-oil-jam-session-6.jpg"
       ],
       "masque": false,
