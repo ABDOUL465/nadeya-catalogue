@@ -1,6 +1,6 @@
 {
-  "version": 394,
-  "maj": "2026-11-27T05:33:17.518Z",
+  "version": 395,
+  "maj": "2026-11-27T05:34:41.302Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -2560,7 +2560,12 @@
       "prixBarre": null,
       "stock": null,
       "visuels": [
-        "/media/produits/lemme-gummies-debloat-1.jpg"
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/lemme-gummies-debloat-1795757622263-olzhxp.jpg",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/lemme-gummies-debloat-1795757626384-bnevtr.jpg",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/lemme-gummies-debloat-1795757624375-omlns8.jpg",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/lemme-gummies-debloat-1795757618479-6voyjt.jpg",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/lemme-gummies-debloat-1795757620417-1sbijd.jpg",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/lemme-gummies-debloat-1795757628391-ir4c65.jpg"
       ],
       "masque": false,
       "nouveaute": false,
