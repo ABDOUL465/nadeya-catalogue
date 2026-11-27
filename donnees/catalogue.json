@@ -1,6 +1,6 @@
 {
-  "version": 392,
-  "maj": "2026-11-27T05:30:19.360Z",
+  "version": 393,
+  "maj": "2026-11-27T05:31:56.050Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -2544,7 +2544,12 @@
       "prixBarre": null,
       "stock": null,
       "visuels": [
-        "/media/produits/lemme-gummies-sleep-1.jpg"
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/lemme-gummies-sleep-1795757468860-clhd6n.jpg",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/lemme-gummies-sleep-1795757474412-8zoz7v.jpg",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/lemme-gummies-sleep-1795757470752-5sr5fa.jpg",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/lemme-gummies-sleep-1795757465025-vddn6j.jpg",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/lemme-gummies-sleep-1795757466999-ln9otr.jpg",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/lemme-gummies-sleep-1795757472592-u49gwp.jpg"
       ],
       "masque": false,
       "nouveaute": false,
