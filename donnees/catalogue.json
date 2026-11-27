@@ -1,6 +1,6 @@
 {
-  "version": 387,
-  "maj": "2026-11-27T05:06:30.203Z",
+  "version": 388,
+  "maj": "2026-11-27T05:07:59.053Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -2830,6 +2830,21 @@
         "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/eos-lotion-hiver-cotton-candy-fleur-1795755938656-6r8n3j.webp",
         "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/eos-lotion-hiver-cotton-candy-fleur-1795755933296-g18r85.webp",
         "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/eos-lotion-hiver-cotton-candy-fleur-1795755940411-wftpab.webp"
+      ],
+      "masque": false,
+      "nouveaute": false,
+      "vedette": false
+    },
+    "eos-lotion-hiver-cozy-comfort": {
+      "prix": 15000,
+      "prixBarre": null,
+      "stock": null,
+      "visuels": [
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/eos-lotion-hiver-cozy-comfort-1795756029496-fyhoy6.webp",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/eos-lotion-hiver-cozy-comfort-1795756032892-4v4gxs.webp",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/eos-lotion-hiver-cozy-comfort-1795756026055-hsirld.webp",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/eos-lotion-hiver-cozy-comfort-1795756069108-4fv76c.webp",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/eos-lotion-hiver-cozy-comfort-1795756027737-z1385p.webp"
       ],
       "masque": false,
       "nouveaute": false,
