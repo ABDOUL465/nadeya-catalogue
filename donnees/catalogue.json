@@ -1,6 +1,6 @@
 {
-  "version": 404,
-  "maj": "2026-11-27T06:11:46.760Z",
+  "version": 405,
+  "maj": "2026-11-27T06:17:55.390Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -2965,6 +2965,28 @@
         "/media/produits/milk-makeup-hydro-grip-spray-1.jpg",
         "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/milk-makeup-hydro-grip-spray-1795759814439-gj878p.jpg",
         "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/milk-makeup-hydro-grip-spray-1795759818115-siystc.jpg"
+      ],
+      "masque": false,
+      "nouveaute": false,
+      "vedette": false
+    },
+    "one-size-on-til-dawn-setting-spray": {
+      "prix": 33000,
+      "prixBarre": null,
+      "stock": null,
+      "visuels": [
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/one-size-on-til-dawn-setting-spray-1795760168831-lfq8sz.jpg",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/one-size-on-til-dawn-setting-spray-1795760166027-s5mkzz.jpg",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/one-size-on-til-dawn-setting-spray-1795760061159-sg0jsr.jpg",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/one-size-on-til-dawn-setting-spray-1795760044862-bczz8e.jpg",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/one-size-on-til-dawn-setting-spray-1795760053106-62f7i7.jpg",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/one-size-on-til-dawn-setting-spray-1795760174830-rk8jtl.jpg",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/one-size-on-til-dawn-setting-spray-1795760049453-bn4wtv.jpg",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/one-size-on-til-dawn-setting-spray-1795760057363-om43jd.jpg",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/one-size-on-til-dawn-setting-spray-1795760163028-y8v9wb.jpg",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/one-size-on-til-dawn-setting-spray-1795760064494-g83hnq.jpg",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/one-size-on-til-dawn-setting-spray-1795760159903-08rffp.jpg",
+        "/media/produits/one-size-on-til-dawn-setting-spray-1.jpg"
       ],
       "masque": false,
       "nouveaute": false,
