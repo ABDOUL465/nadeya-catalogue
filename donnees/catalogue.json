@@ -1,6 +1,6 @@
 {
-  "version": 365,
-  "maj": "2026-11-27T02:41:29.726Z",
+  "version": 366,
+  "maj": "2026-11-27T02:43:49.098Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -2617,6 +2617,18 @@
       "visuels": [
         "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/eos-cashmere-body-wash-strawberry-dream-1795747271195-vwjiy7.png",
         "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/eos-cashmere-body-wash-strawberry-dream-1795747275383-itg4tc.jpg"
+      ],
+      "masque": false,
+      "nouveaute": false,
+      "vedette": false
+    },
+    "eos-cashmere-body-wash-fresh-cozy": {
+      "prix": 12000,
+      "prixBarre": null,
+      "stock": null,
+      "visuels": [
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/eos-cashmere-body-wash-fresh-cozy-1795747417074-7gbb2d.png",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/eos-cashmere-body-wash-fresh-cozy-1795747419746-txxbl3.jpg"
       ],
       "masque": false,
       "nouveaute": false,
