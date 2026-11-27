@@ -1,6 +1,6 @@
 {
-  "version": 368,
-  "maj": "2026-11-27T02:52:13.473Z",
+  "version": 369,
+  "maj": "2026-11-27T02:58:55.715Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -2299,6 +2299,8 @@
       "prixBarre": null,
       "stock": null,
       "visuels": [
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/fenty-skin-cherry-dub-tonique-bha-1795748294838-05efjk.png",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/fenty-skin-cherry-dub-tonique-bha-1795748297058-h99vme.jpg",
         "/media/produits/fenty-skin-cherry-dub-tonique-bha-1.jpg"
       ],
       "masque": false,
