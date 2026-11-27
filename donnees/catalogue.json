@@ -1,6 +1,6 @@
 {
-  "version": 393,
-  "maj": "2026-11-27T05:31:56.050Z",
+  "version": 394,
+  "maj": "2026-11-27T05:33:17.518Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -2571,7 +2571,12 @@
       "prixBarre": null,
       "stock": null,
       "visuels": [
-        "/media/produits/lemme-gummies-purr-1.jpg"
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/lemme-gummies-purr-1795757540226-bebz44.jpg",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/lemme-gummies-purr-1795757569898-szg7ml.jpg",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/lemme-gummies-purr-1795757566102-76iywy.jpg",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/lemme-gummies-purr-1795757560073-dpqoz7.jpg",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/lemme-gummies-purr-1795757562053-8j56fk.jpg",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/lemme-gummies-purr-1795757568077-2gg65m.jpg"
       ],
       "masque": false,
       "nouveaute": false,
