@@ -1,6 +1,6 @@
 {
-  "version": 427,
-  "maj": "2026-11-27T08:10:37.044Z",
+  "version": 428,
+  "maj": "2026-11-27T08:12:41.919Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -3054,8 +3054,7 @@
       "prixBarre": null,
       "stock": null,
       "visuels": [
-        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/elf-camo-concealer-1795763122960-i8iuj2.png",
-        "/media/produits/elf-camo-concealer-1.jpg"
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/elf-camo-concealer-1795763122960-i8iuj2.png"
       ],
       "masque": false,
       "nouveaute": false,
