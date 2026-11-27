@@ -1,6 +1,6 @@
 {
-  "version": 449,
-  "maj": "2026-11-27T09:07:59.641Z",
+  "version": 450,
+  "maj": "2026-11-27T09:08:32.392Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -1844,9 +1844,9 @@
       "stock": null,
       "visuels": [
         "/media/produits/sephora-cream-lip-stain-n-97-red-desert-1.jpg",
+        "/media/produits/sephora-cream-lip-stain-n-97-red-desert-4.jpg",
         "/media/produits/sephora-cream-lip-stain-n-97-red-desert-2.jpg",
         "/media/produits/sephora-cream-lip-stain-n-97-red-desert-3.jpg",
-        "/media/produits/sephora-cream-lip-stain-n-97-red-desert-4.jpg",
         "/media/produits/sephora-cream-lip-stain-n-97-red-desert-5.jpg"
       ],
       "masque": false,
