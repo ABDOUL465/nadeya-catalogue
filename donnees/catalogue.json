@@ -1,6 +1,6 @@
 {
-  "version": 461,
-  "maj": "2026-11-27T09:24:50.673Z",
+  "version": 462,
+  "maj": "2026-11-27T09:26:33.792Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -2390,8 +2390,7 @@
       "prixBarre": null,
       "stock": null,
       "visuels": [
-        "/media/produits/maybelline-fit-me-poudre-matte-poreless-1.jpg",
-        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/maybelline-fit-me-poudre-matte-poreless-1795762803426-k65lad.jpg"
+        "/media/produits/maybelline-fit-me-poudre-matte-poreless-1.jpg"
       ],
       "masque": false,
       "nouveaute": false,
