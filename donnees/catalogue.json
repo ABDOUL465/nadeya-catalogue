@@ -1,6 +1,6 @@
 {
-  "version": 357,
-  "maj": "2026-11-26T15:33:38.007Z",
+  "version": 358,
+  "maj": "2026-11-27T00:38:45.358Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -2532,6 +2532,19 @@
       "stock": null,
       "visuels": [
         "/media/produits/lemme-gummies-purr-1.jpg"
+      ],
+      "masque": false,
+      "nouveaute": false,
+      "vedette": false
+    },
+    "fenty-glossy-posse-ix-coffret": {
+      "prix": 41000,
+      "prixBarre": null,
+      "stock": null,
+      "visuels": [
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/fenty-glossy-posse-ix-coffret-1795739907069-qnpprn.png",
+        "/media/produits/fenty-glossy-posse-ix-coffret-2.jpg",
+        "/media/produits/fenty-glossy-posse-ix-coffret-1.jpg"
       ],
       "masque": false,
       "nouveaute": false,
