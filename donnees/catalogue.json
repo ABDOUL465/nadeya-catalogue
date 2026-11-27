@@ -1,6 +1,6 @@
 {
-  "version": 403,
-  "maj": "2026-11-27T06:09:39.158Z",
+  "version": 404,
+  "maj": "2026-11-27T06:11:46.760Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -2949,6 +2949,22 @@
         "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/elf-power-grip-dewy-setting-spray-1795759756150-1k8etl.jpg",
         "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/elf-power-grip-dewy-setting-spray-1795759757890-2btbq0.jpg",
         "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/elf-power-grip-dewy-setting-spray-1795759754221-0kjege.jpg"
+      ],
+      "masque": false,
+      "nouveaute": false,
+      "vedette": false
+    },
+    "milk-makeup-hydro-grip-spray": {
+      "prix": 34000,
+      "prixBarre": null,
+      "stock": null,
+      "visuels": [
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/milk-makeup-hydro-grip-spray-1795759811169-lic36i.jpg",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/milk-makeup-hydro-grip-spray-1795759812673-5dzdts.jpg",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/milk-makeup-hydro-grip-spray-1795759816179-j6kl7z.jpg",
+        "/media/produits/milk-makeup-hydro-grip-spray-1.jpg",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/milk-makeup-hydro-grip-spray-1795759814439-gj878p.jpg",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/milk-makeup-hydro-grip-spray-1795759818115-siystc.jpg"
       ],
       "masque": false,
       "nouveaute": false,
