@@ -1,6 +1,6 @@
 {
-  "version": 466,
-  "maj": "2026-11-27T09:29:04.976Z",
+  "version": 467,
+  "maj": "2026-11-27T15:00:30.033Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -3199,6 +3199,23 @@
         "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/fenty-match-stix-amber-1795766745145-16l383.jpg",
         "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/fenty-match-stix-amber-1795766747211-a815e0.jpg",
         "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/fenty-match-stix-amber-1795766749633-y1hfsf.jpg"
+      ],
+      "masque": false,
+      "nouveaute": false,
+      "vedette": false
+    },
+    "eos-dirty-chai-dewy-lip-shine": {
+      "prix": 12000,
+      "prixBarre": null,
+      "stock": null,
+      "visuels": [
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/eos-dirty-chai-dewy-lip-shine-1795791584286-dpmelp.jpg",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/eos-dirty-chai-dewy-lip-shine-1795791202569-7gfevl.webp",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/eos-dirty-chai-dewy-lip-shine-1795791187580-95r6s9.webp",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/eos-dirty-chai-dewy-lip-shine-1795791190286-wzog99.webp",
+        "/media/produits/eos-dirty-chai-dewy-lip-shine-2.jpg",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/eos-dirty-chai-dewy-lip-shine-1795790914775-ap0tti.webp",
+        "/media/produits/eos-dirty-chai-dewy-lip-shine-1.jpg"
       ],
       "masque": false,
       "nouveaute": false,
