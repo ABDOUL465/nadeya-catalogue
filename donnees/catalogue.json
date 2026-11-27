@@ -1,6 +1,6 @@
 {
-  "version": 429,
-  "maj": "2026-11-27T08:26:22.657Z",
+  "version": 430,
+  "maj": "2026-11-27T08:34:13.094Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -2481,7 +2481,7 @@
       "prixBarre": null,
       "stock": null,
       "visuels": [
-        "/media/produits/fenty-gloss-bomb-heat-hot-cherry-1.jpg",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/fenty-gloss-bomb-heat-hot-cherry-1795768437004-ah7n28.jpg",
         "/media/produits/fenty-gloss-bomb-heat-hot-cherry-2.jpg"
       ],
       "masque": false,
