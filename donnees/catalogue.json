@@ -1,6 +1,6 @@
 {
-  "version": 428,
-  "maj": "2026-11-27T08:12:41.919Z",
+  "version": 429,
+  "maj": "2026-11-27T08:26:22.657Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -2493,6 +2493,9 @@
       "prixBarre": null,
       "stock": null,
       "visuels": [
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/fenty-gloss-bomb-rouge-profond-1795767711296-jo83j7.jpg",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/fenty-gloss-bomb-rouge-profond-1795767948913-d7zgso.jpg",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/fenty-gloss-bomb-rouge-profond-1795767956148-vcabjo.jpg",
         "/media/produits/fenty-gloss-bomb-rouge-profond-1.jpg"
       ],
       "masque": false,
