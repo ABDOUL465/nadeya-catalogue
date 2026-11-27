@@ -1,6 +1,6 @@
 {
-  "version": 371,
-  "maj": "2026-11-27T03:37:57.118Z",
+  "version": 372,
+  "maj": "2026-11-27T03:47:41.384Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -2320,7 +2320,17 @@
       "stock": null,
       "visuels": [
         "/media/produits/fenty-skin-cherry-dub-gel-nettoyant-1.jpg",
-        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/fenty-skin-cherry-dub-gel-nettoyant-1795747918534-yqudjj.jpg"
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/fenty-skin-cherry-dub-gel-nettoyant-1795751013399-7y53p0.jpg",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/fenty-skin-cherry-dub-gel-nettoyant-1795751189125-ix6xhg.jpg",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/fenty-skin-cherry-dub-gel-nettoyant-1795751029804-3dfaqj.jpg",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/fenty-skin-cherry-dub-gel-nettoyant-1795751021818-iy0n37.jpg",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/fenty-skin-cherry-dub-gel-nettoyant-1795751048253-6a0uwe.jpg",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/fenty-skin-cherry-dub-gel-nettoyant-1795751025873-3p2yos.jpg",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/fenty-skin-cherry-dub-gel-nettoyant-1795751027960-fkggl4.jpg",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/fenty-skin-cherry-dub-gel-nettoyant-1795751044712-jsbpv0.jpg",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/fenty-skin-cherry-dub-gel-nettoyant-1795751023583-f71zz4.jpg",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/fenty-skin-cherry-dub-gel-nettoyant-1795751046679-5e6qj8.jpg",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/fenty-skin-cherry-dub-gel-nettoyant-1795751050775-lg6qfs.jpg"
       ],
       "masque": false,
       "nouveaute": false,
