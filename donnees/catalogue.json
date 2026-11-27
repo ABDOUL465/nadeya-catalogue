@@ -1,6 +1,6 @@
 {
-  "version": 370,
-  "maj": "2026-11-27T03:35:40.906Z",
+  "version": 371,
+  "maj": "2026-11-27T03:37:57.118Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -2300,8 +2300,15 @@
       "stock": null,
       "visuels": [
         "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/fenty-skin-cherry-dub-tonique-bha-1795748294838-05efjk.png",
-        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/fenty-skin-cherry-dub-tonique-bha-1795748297058-h99vme.jpg",
-        "/media/produits/fenty-skin-cherry-dub-tonique-bha-1.jpg"
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/fenty-skin-cherry-dub-tonique-bha-1795750629679-lmbx4w.jpg",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/fenty-skin-cherry-dub-tonique-bha-1795750588592-zz6czy.jpg",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/fenty-skin-cherry-dub-tonique-bha-1795750596093-2nmdi3.jpg",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/fenty-skin-cherry-dub-tonique-bha-1795750594350-tpwltc.jpg",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/fenty-skin-cherry-dub-tonique-bha-1795750592399-egsayf.jpg",
+        "/media/produits/fenty-skin-cherry-dub-tonique-bha-1.jpg",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/fenty-skin-cherry-dub-tonique-bha-1795750590535-27j9o1.jpg",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/fenty-skin-cherry-dub-tonique-bha-1795750597826-kcs7hs.jpg",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/fenty-skin-cherry-dub-tonique-bha-1795750631813-8dzgse.jpg"
       ],
       "masque": false,
       "nouveaute": false,
