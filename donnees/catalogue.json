@@ -1,6 +1,6 @@
 {
-  "version": 386,
-  "maj": "2026-11-27T04:58:10.301Z",
+  "version": 387,
+  "maj": "2026-11-27T05:06:30.203Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -2814,6 +2814,22 @@
       "visuels": [
         "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/eos-shea-better-24h-moisture-lotion-strawberry-dream-1795755449665-yca98c.png",
         "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/eos-shea-better-24h-moisture-lotion-strawberry-dream-1795755451816-i2b0hu.jpg"
+      ],
+      "masque": false,
+      "nouveaute": false,
+      "vedette": false
+    },
+    "eos-lotion-hiver-cotton-candy-fleur": {
+      "prix": 15000,
+      "prixBarre": null,
+      "stock": null,
+      "visuels": [
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/eos-lotion-hiver-cotton-candy-fleur-1795755931409-9cuoiw.webp",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/eos-lotion-hiver-cotton-candy-fleur-1795755936904-kfvpqd.webp",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/eos-lotion-hiver-cotton-candy-fleur-1795755935233-msmra2.webp",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/eos-lotion-hiver-cotton-candy-fleur-1795755938656-6r8n3j.webp",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/eos-lotion-hiver-cotton-candy-fleur-1795755933296-g18r85.webp",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/eos-lotion-hiver-cotton-candy-fleur-1795755940411-wftpab.webp"
       ],
       "masque": false,
       "nouveaute": false,
