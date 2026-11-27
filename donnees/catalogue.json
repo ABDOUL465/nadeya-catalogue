@@ -1,6 +1,6 @@
 {
-  "version": 414,
-  "maj": "2026-11-27T07:21:42.434Z",
+  "version": 415,
+  "maj": "2026-11-27T07:27:04.822Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -3099,6 +3099,20 @@
         "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/elf-power-grip-matte-primer-1795764041383-as44my.webp",
         "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/elf-power-grip-matte-primer-1795764048642-rcm8kb.webp",
         "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/elf-power-grip-matte-primer-1795764050289-eqa8qb.webp"
+      ],
+      "masque": false,
+      "nouveaute": false,
+      "vedette": false
+    },
+    "fenty-beauty-poudre-compacte": {
+      "prix": 35000,
+      "prixBarre": null,
+      "stock": null,
+      "visuels": [
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/fenty-beauty-poudre-compacte-1795764347817-c5z9cz.jpg",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/fenty-beauty-poudre-compacte-1795764329097-s8r6fx.jpg",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/fenty-beauty-poudre-compacte-1795764345930-8tkyp6.webp",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/fenty-beauty-poudre-compacte-1795764344283-n43icy.webp"
       ],
       "masque": false,
       "nouveaute": false,
