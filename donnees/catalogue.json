@@ -1,6 +1,6 @@
 {
-  "version": 398,
-  "maj": "2026-11-27T05:56:42.769Z",
+  "version": 399,
+  "maj": "2026-11-27T05:57:33.114Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -2919,6 +2919,20 @@
         "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/fenty-beauty-pinceau-teint-1795758894498-60hd0o.jpg",
         "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/fenty-beauty-pinceau-teint-1795758896144-1jcfqm.jpg",
         "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/fenty-beauty-pinceau-teint-1795758898281-xpudm9.jpg"
+      ],
+      "masque": false,
+      "nouveaute": false,
+      "vedette": false
+    },
+    "sephora-total-set-pinceaux": {
+      "prix": 50500,
+      "prixBarre": null,
+      "stock": null,
+      "visuels": [
+        "/media/produits/sephora-total-set-pinceaux-1.jpg",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/sephora-total-set-pinceaux-1795759023572-2fpscv.webp",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/sephora-total-set-pinceaux-1795759039866-d71kau.webp",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/sephora-total-set-pinceaux-1795759038377-07w3pk.webp"
       ],
       "masque": false,
       "nouveaute": false,
