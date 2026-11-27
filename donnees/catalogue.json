@@ -1,6 +1,6 @@
 {
-  "version": 426,
-  "maj": "2026-11-27T08:07:44.296Z",
+  "version": 427,
+  "maj": "2026-11-27T08:10:37.044Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -3066,8 +3066,7 @@
       "prixBarre": null,
       "stock": null,
       "visuels": [
-        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/elf-camo-cc-cream-1795763698246-7al4d9.png",
-        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/elf-camo-cc-cream-1795763700285-ujpw2k.webp"
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/elf-camo-cc-cream-1795763698246-7al4d9.png"
       ],
       "masque": false,
       "nouveaute": false,
