@@ -1,6 +1,6 @@
 {
-  "version": 361,
-  "maj": "2026-11-27T02:16:04.230Z",
+  "version": 362,
+  "maj": "2026-11-27T02:22:01.581Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -2581,6 +2581,18 @@
       "visuels": [
         "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/eos-brume-hiver-frosted-plum-amber-1795745747854-ifwxs4.png",
         "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/eos-brume-hiver-frosted-plum-amber-1795745751149-b9pu7c.jpg"
+      ],
+      "masque": false,
+      "nouveaute": false,
+      "vedette": false
+    },
+    "sol-de-janeiro-cheiroso-10": {
+      "prix": 27000,
+      "prixBarre": null,
+      "stock": null,
+      "visuels": [
+        "/media/produits/sol-de-janeiro-cheiroso-10-1.jpg",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/sol-de-janeiro-cheiroso-10-1795746111665-k9pwbh.jpg"
       ],
       "masque": false,
       "nouveaute": false,
