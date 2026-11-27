@@ -1,6 +1,6 @@
 {
-  "version": 421,
-  "maj": "2026-11-27T07:56:58.015Z",
+  "version": 422,
+  "maj": "2026-11-27T08:00:37.045Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -3171,6 +3171,23 @@
         "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/fenty-match-stix-espresso-1795766042454-5mjka2.jpg",
         "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/fenty-match-stix-espresso-1795766044531-4w8ge6.jpg",
         "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/fenty-match-stix-espresso-1795766046281-4ys9pc.jpg"
+      ],
+      "masque": false,
+      "nouveaute": false,
+      "vedette": false
+    },
+    "fenty-match-stix-suedish": {
+      "prix": 31000,
+      "prixBarre": null,
+      "stock": null,
+      "visuels": [
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/fenty-match-stix-suedish-1795766409917-fqt0xk.jpg",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/fenty-match-stix-suedish-1795766293940-5nf1lz.jpg",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/fenty-match-stix-suedish-1795766292626-rl2ava.png",
+        "/media/produits/fenty-match-stix-suedish-1.jpg",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/fenty-match-stix-suedish-1795766427967-o35g8j.jpg",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/fenty-match-stix-suedish-1795766429826-90yae9.jpg",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/fenty-match-stix-suedish-1795766431869-3omyz6.jpg"
       ],
       "masque": false,
       "nouveaute": false,
