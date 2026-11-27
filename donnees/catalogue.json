@@ -1,6 +1,6 @@
 {
-  "version": 363,
-  "maj": "2026-11-27T02:24:26.477Z",
+  "version": 364,
+  "maj": "2026-11-27T02:40:22.155Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -2593,6 +2593,18 @@
       "visuels": [
         "/media/produits/sol-de-janeiro-cheiroso-10-1.jpg",
         "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/sol-de-janeiro-cheiroso-10-1795746111665-k9pwbh.jpg"
+      ],
+      "masque": false,
+      "nouveaute": false,
+      "vedette": false
+    },
+    "fenty-skin-cookies-n-clean-gommage": {
+      "prix": 30000,
+      "prixBarre": null,
+      "stock": null,
+      "visuels": [
+        "/media/produits/fenty-skin-cookies-n-clean-gommage-1.jpg",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/fenty-skin-cookies-n-clean-gommage-1795747210365-8aulmz.jpg"
       ],
       "masque": false,
       "nouveaute": false,
