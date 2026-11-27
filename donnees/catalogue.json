@@ -1,6 +1,6 @@
 {
-  "version": 397,
-  "maj": "2026-11-27T05:47:11.178Z",
+  "version": 398,
+  "maj": "2026-11-27T05:56:42.769Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -2902,6 +2902,23 @@
         "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/lemme-gummies-grow-1795757753917-wx7uj9.jpg",
         "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/lemme-gummies-grow-1795757757810-xl6q6d.jpg",
         "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/lemme-gummies-grow-1795757755909-gue4de.jpg"
+      ],
+      "masque": false,
+      "nouveaute": false,
+      "vedette": false
+    },
+    "fenty-beauty-pinceau-teint": {
+      "prix": 30000,
+      "prixBarre": null,
+      "stock": null,
+      "visuels": [
+        "/media/produits/fenty-beauty-pinceau-teint-1.jpg",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/fenty-beauty-pinceau-teint-1795758890240-gobfue.jpg",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/fenty-beauty-pinceau-teint-1795758888414-qg2eui.jpg",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/fenty-beauty-pinceau-teint-1795758892106-cfhgdl.jpg",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/fenty-beauty-pinceau-teint-1795758894498-60hd0o.jpg",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/fenty-beauty-pinceau-teint-1795758896144-1jcfqm.jpg",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/fenty-beauty-pinceau-teint-1795758898281-xpudm9.jpg"
       ],
       "masque": false,
       "nouveaute": false,
