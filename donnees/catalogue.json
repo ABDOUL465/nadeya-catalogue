@@ -1,6 +1,6 @@
 {
-  "version": 433,
-  "maj": "2026-11-27T08:36:57.638Z",
+  "version": 434,
+  "maj": "2026-11-27T08:41:32.523Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -2359,7 +2359,7 @@
       "prixBarre": null,
       "stock": null,
       "visuels": [
-        "/media/produits/fenty-gloss-bomb-prismatique-wattabrat-1.jpg",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/fenty-gloss-bomb-prismatique-wattabrat-1795768884011-42r8tn.jpg",
         "/media/produits/fenty-gloss-bomb-prismatique-wattabrat-2.jpg"
       ],
       "masque": false,
