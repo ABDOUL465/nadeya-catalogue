@@ -1,6 +1,6 @@
 {
-  "version": 410,
-  "maj": "2026-11-27T07:05:45.160Z",
+  "version": 411,
+  "maj": "2026-11-27T07:15:15.850Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -3056,6 +3056,19 @@
       "visuels": [
         "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/elf-camo-concealer-1795763122960-i8iuj2.png",
         "/media/produits/elf-camo-concealer-1.jpg"
+      ],
+      "masque": false,
+      "nouveaute": false,
+      "vedette": false
+    },
+    "elf-camo-cc-cream": {
+      "prix": 23000,
+      "prixBarre": null,
+      "stock": null,
+      "visuels": [
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/elf-camo-cc-cream-1795763698246-7al4d9.png",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/elf-camo-cc-cream-1795763700285-ujpw2k.webp",
+        "/media/produits/elf-camo-cc-cream-1.jpg"
       ],
       "masque": false,
       "nouveaute": false,
