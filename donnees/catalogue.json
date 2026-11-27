@@ -1,6 +1,6 @@
 {
-  "version": 441,
-  "maj": "2026-11-27T09:00:51.214Z",
+  "version": 442,
+  "maj": "2026-11-27T09:01:15.383Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -357,10 +357,9 @@
       "prix": 25000,
       "visuels": [
         "/media/produits/fenty-skin-treatz-lip-oil-coconut-2.jpg",
+        "/media/produits/fenty-skin-treatz-lip-oil-coconut-5.jpg",
         "/media/produits/fenty-skin-treatz-lip-oil-coconut-1.jpg",
-        "/media/produits/fenty-skin-treatz-lip-oil-coconut-3.jpg",
-        "/media/produits/fenty-skin-treatz-lip-oil-coconut-4.jpg",
-        "/media/produits/fenty-skin-treatz-lip-oil-coconut-5.jpg"
+        "/media/produits/fenty-skin-treatz-lip-oil-coconut-4.jpg"
       ],
       "masque": false,
       "nouveaute": false,
