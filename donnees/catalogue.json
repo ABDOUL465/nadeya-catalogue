@@ -1,6 +1,6 @@
 {
-  "version": 375,
-  "maj": "2026-11-27T04:02:36.566Z",
+  "version": 376,
+  "maj": "2026-11-27T04:13:56.210Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -2714,6 +2714,22 @@
       "visuels": [
         "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/tree-hut-shea-sugar-scrub-dragon-fruit-1795752150863-1w84uy.png",
         "/media/produits/tree-hut-shea-sugar-scrub-dragon-fruit-1.jpg"
+      ],
+      "masque": false,
+      "nouveaute": false,
+      "vedette": false
+    },
+    "fenty-skin-pot-de-soin": {
+      "prix": 38000,
+      "prixBarre": null,
+      "stock": null,
+      "visuels": [
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/fenty-skin-pot-de-soin-1795752782098-gce1cm.webp",
+        "/media/produits/fenty-skin-pot-de-soin-1.jpg",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/fenty-skin-pot-de-soin-1795752791237-ca7a3g.jpg",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/fenty-skin-pot-de-soin-1795752789450-d50295.jpg",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/fenty-skin-pot-de-soin-1795752793012-4g9n78.jpg",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/fenty-skin-pot-de-soin-1795752794656-9nhxg8.jpg"
       ],
       "masque": false,
       "nouveaute": false,
