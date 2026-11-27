@@ -1,6 +1,6 @@
 {
-  "version": 407,
-  "maj": "2026-11-27T06:33:46.401Z",
+  "version": 408,
+  "maj": "2026-11-27T06:39:08.047Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -3025,6 +3025,24 @@
         "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/huda-easy-bake-poudre-pink-ube-1795761198469-v2qgwv.jpg",
         "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/huda-easy-bake-poudre-pink-ube-1795761200717-9y7l6y.jpg",
         "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/huda-easy-bake-poudre-pink-ube-1795761202951-gfuobu.jpg"
+      ],
+      "masque": false,
+      "nouveaute": false,
+      "vedette": false
+    },
+    "fenty-beauty-mascara": {
+      "prix": 25000,
+      "prixBarre": null,
+      "stock": null,
+      "visuels": [
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/fenty-beauty-mascara-1795761475175-0jieic.webp",
+        "/media/produits/fenty-beauty-mascara-1.jpg",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/fenty-beauty-mascara-1795761444642-wz7vx7.webp",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/fenty-beauty-mascara-1795761447980-l3rhhf.webp",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/fenty-beauty-mascara-1795761442762-1yxma4.webp",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/fenty-beauty-mascara-1795761449494-f5el34.webp",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/fenty-beauty-mascara-1795761446323-x3dga0.webp",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/fenty-beauty-mascara-1795761441119-j761tj.webp"
       ],
       "masque": false,
       "nouveaute": false,
