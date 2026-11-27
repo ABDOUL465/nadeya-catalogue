@@ -1,6 +1,6 @@
 {
-  "version": 417,
-  "maj": "2026-11-27T07:38:00.275Z",
+  "version": 418,
+  "maj": "2026-11-27T07:52:00.978Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -3139,6 +3139,23 @@
         "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/fenty-beauty-bronzer-mocha-mami-1795764923966-6i37v5.jpg",
         "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/fenty-beauty-bronzer-mocha-mami-1795764927768-rt1cu7.jpg",
         "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/fenty-beauty-bronzer-mocha-mami-1795764921680-e8l26x.jpg"
+      ],
+      "masque": false,
+      "nouveaute": false,
+      "vedette": false
+    },
+    "fenty-match-stix-caviar": {
+      "prix": 31000,
+      "prixBarre": null,
+      "stock": null,
+      "visuels": [
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/fenty-match-stix-caviar-1795765852752-0zy6kt.png",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/fenty-match-stix-caviar-1795765857278-ewziu6.jpg",
+        "/media/produits/fenty-match-stix-caviar-1.jpg",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/fenty-match-stix-caviar-1795765855008-0p8l1a.png",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/fenty-match-stix-caviar-1795765871973-f09jbp.jpg",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/fenty-match-stix-caviar-1795765873764-w2sgd3.jpg",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/fenty-match-stix-caviar-1795765875485-msc5te.jpg"
       ],
       "masque": false,
       "nouveaute": false,
