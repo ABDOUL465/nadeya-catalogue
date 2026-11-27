@@ -1,6 +1,6 @@
 {
-  "version": 415,
-  "maj": "2026-11-27T07:27:04.822Z",
+  "version": 416,
+  "maj": "2026-11-27T07:31:30.381Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -3113,6 +3113,18 @@
         "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/fenty-beauty-poudre-compacte-1795764329097-s8r6fx.jpg",
         "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/fenty-beauty-poudre-compacte-1795764345930-8tkyp6.webp",
         "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/fenty-beauty-poudre-compacte-1795764344283-n43icy.webp"
+      ],
+      "masque": false,
+      "nouveaute": false,
+      "vedette": false
+    },
+    "fenty-beauty-fond-de-teint": {
+      "prix": 45000,
+      "prixBarre": null,
+      "stock": null,
+      "visuels": [
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/fenty-beauty-fond-de-teint-1795764668337-yqhqr6.jpg",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/fenty-beauty-fond-de-teint-1795764670228-p2rnyk.jpg"
       ],
       "masque": false,
       "nouveaute": false,
