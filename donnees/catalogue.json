@@ -1,6 +1,6 @@
 {
-  "version": 385,
-  "maj": "2026-11-27T04:57:37.663Z",
+  "version": 386,
+  "maj": "2026-11-27T04:58:10.301Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -2379,7 +2379,8 @@
       "prixBarre": null,
       "stock": null,
       "visuels": [
-        "/media/produits/eos-shea-better-24h-moisture-lotion-pumpkin-chai-1.jpg"
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/eos-shea-better-24h-moisture-lotion-pumpkin-chai-1795755474970-96xy0b.png",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/eos-shea-better-24h-moisture-lotion-pumpkin-chai-1795755477705-xxqci5.jpg"
       ],
       "masque": false,
       "nouveaute": false,
