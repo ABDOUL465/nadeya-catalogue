@@ -1,6 +1,6 @@
 {
-  "version": 367,
-  "maj": "2026-11-27T02:47:29.689Z",
+  "version": 368,
+  "maj": "2026-11-27T02:52:13.473Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -2310,7 +2310,8 @@
       "prixBarre": null,
       "stock": null,
       "visuels": [
-        "/media/produits/fenty-skin-cherry-dub-gel-nettoyant-1.jpg"
+        "/media/produits/fenty-skin-cherry-dub-gel-nettoyant-1.jpg",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/fenty-skin-cherry-dub-gel-nettoyant-1795747918534-yqudjj.jpg"
       ],
       "masque": false,
       "nouveaute": false,
