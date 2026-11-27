@@ -1,6 +1,6 @@
 {
-  "version": 455,
-  "maj": "2026-11-27T09:20:09.581Z",
+  "version": 456,
+  "maj": "2026-11-27T09:21:01.606Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -2775,10 +2775,10 @@
       "stock": null,
       "visuels": [
         "/media/produits/sol-de-janeiro-body-badalada-1.jpg",
-        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/sol-de-janeiro-body-badalada-1795753716082-xxcwcr.jpg",
         "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/sol-de-janeiro-body-badalada-1795753713383-kee781.jpg",
-        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/sol-de-janeiro-body-badalada-1795753718393-tjhrmh.jpg",
-        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/sol-de-janeiro-body-badalada-1795753720470-jq3sps.jpg"
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/sol-de-janeiro-body-badalada-1795753716082-xxcwcr.jpg",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/sol-de-janeiro-body-badalada-1795753720470-jq3sps.jpg",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/sol-de-janeiro-body-badalada-1795753718393-tjhrmh.jpg"
       ],
       "masque": false,
       "nouveaute": false,
