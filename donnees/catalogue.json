@@ -1,6 +1,6 @@
 {
-  "version": 383,
-  "maj": "2026-11-27T04:56:19.715Z",
+  "version": 384,
+  "maj": "2026-11-27T04:56:56.359Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -2789,6 +2789,18 @@
       "visuels": [
         "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/eos-shea-better-24h-moisture-lotion-coconut-waters-1795755370909-ciu1pl.png",
         "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/eos-shea-better-24h-moisture-lotion-coconut-waters-1795755373290-ug9ibw.jpg"
+      ],
+      "masque": false,
+      "nouveaute": false,
+      "vedette": false
+    },
+    "eos-shea-better-24h-moisture-lotion-beach-waves": {
+      "prix": 12000,
+      "prixBarre": null,
+      "stock": null,
+      "visuels": [
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/eos-shea-better-24h-moisture-lotion-beach-waves-1795755400495-hns1c5.png",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/eos-shea-better-24h-moisture-lotion-beach-waves-1795755403259-tqyw84.jpg"
       ],
       "masque": false,
       "nouveaute": false,
