@@ -1,6 +1,6 @@
 {
-  "version": 420,
-  "maj": "2026-11-27T07:54:46.350Z",
+  "version": 421,
+  "maj": "2026-11-27T07:56:58.015Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -3149,9 +3149,8 @@
       "prixBarre": null,
       "stock": null,
       "visuels": [
-        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/fenty-match-stix-caviar-1795765852752-0zy6kt.png",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/fenty-match-stix-caviar-1795766201066-hfavgc.jpg",
         "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/fenty-match-stix-caviar-1795765857278-ewziu6.jpg",
-        "/media/produits/fenty-match-stix-caviar-1.jpg",
         "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/fenty-match-stix-caviar-1795765855008-0p8l1a.png",
         "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/fenty-match-stix-caviar-1795765871973-f09jbp.jpg",
         "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/fenty-match-stix-caviar-1795765873764-w2sgd3.jpg",
