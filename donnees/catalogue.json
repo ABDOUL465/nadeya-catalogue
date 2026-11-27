@@ -1,6 +1,6 @@
 {
-  "version": 369,
-  "maj": "2026-11-27T02:58:55.715Z",
+  "version": 370,
+  "maj": "2026-11-27T03:35:40.906Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -2645,6 +2645,22 @@
         "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/fenty-skin-cookies-n-clean-masque-1795747632774-ijak2j.jpg",
         "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/fenty-skin-cookies-n-clean-masque-1795747635056-q84py1.jpg",
         "/media/produits/fenty-skin-cookies-n-clean-masque-1.jpg"
+      ],
+      "masque": false,
+      "nouveaute": false,
+      "vedette": false
+    },
+    "fenty-skin-soin-stick-lavande": {
+      "prix": 38000,
+      "prixBarre": null,
+      "stock": null,
+      "visuels": [
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/fenty-skin-soin-stick-lavande-1795750502601-w3khd7.png",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/fenty-skin-soin-stick-lavande-1795749894356-s8lxwx.jpg",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/fenty-skin-soin-stick-lavande-1795749902091-4npt1b.jpg",
+        "/media/produits/fenty-skin-soin-stick-lavande-1.jpg",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/fenty-skin-soin-stick-lavande-1795749892465-p0zmzw.jpg",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/fenty-skin-soin-stick-lavande-1795749904236-419v3i.jpg"
       ],
       "masque": false,
       "nouveaute": false,
