@@ -1,6 +1,6 @@
 {
-  "version": 416,
-  "maj": "2026-11-27T07:31:30.381Z",
+  "version": 417,
+  "maj": "2026-11-27T07:38:00.275Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -3125,6 +3125,20 @@
       "visuels": [
         "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/fenty-beauty-fond-de-teint-1795764668337-yqhqr6.jpg",
         "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/fenty-beauty-fond-de-teint-1795764670228-p2rnyk.jpg"
+      ],
+      "masque": false,
+      "nouveaute": false,
+      "vedette": false
+    },
+    "fenty-beauty-bronzer-mocha-mami": {
+      "prix": 35000,
+      "prixBarre": null,
+      "stock": null,
+      "visuels": [
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/fenty-beauty-bronzer-mocha-mami-1795765056891-njtubh.jpg",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/fenty-beauty-bronzer-mocha-mami-1795764923966-6i37v5.jpg",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/fenty-beauty-bronzer-mocha-mami-1795764927768-rt1cu7.jpg",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/fenty-beauty-bronzer-mocha-mami-1795764921680-e8l26x.jpg"
       ],
       "masque": false,
       "nouveaute": false,
