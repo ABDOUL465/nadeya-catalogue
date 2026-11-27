@@ -1,6 +1,6 @@
 {
-  "version": 391,
-  "maj": "2026-11-27T05:28:48.417Z",
+  "version": 392,
+  "maj": "2026-11-27T05:30:19.360Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -2528,7 +2528,12 @@
       "prixBarre": null,
       "stock": null,
       "visuels": [
-        "/media/produits/lemme-gummies-skin-1.jpg"
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/lemme-gummies-skin-1795757361010-arn8za.avif",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/lemme-gummies-skin-1795757371687-0dkb1e.jpg",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/lemme-gummies-skin-1795757369559-garss2.jpg",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/lemme-gummies-skin-1795757365212-kn0ypu.jpg",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/lemme-gummies-skin-1795757362898-z6bqu4.jpg",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/lemme-gummies-skin-1795757367447-du2s1a.jpg"
       ],
       "masque": false,
       "nouveaute": false,
