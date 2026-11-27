@@ -1,6 +1,6 @@
 {
-  "version": 390,
-  "maj": "2026-11-27T05:10:27.153Z",
+  "version": 391,
+  "maj": "2026-11-27T05:28:48.417Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -2512,7 +2512,12 @@
       "prixBarre": null,
       "stock": null,
       "visuels": [
-        "/media/produits/lemme-gummies-glow-1.jpg"
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/lemme-gummies-glow-1795757228382-vrgkgb.jpg",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/lemme-gummies-glow-1795757234575-d20neh.jpg",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/lemme-gummies-glow-1795757230552-gr7jzc.jpg",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/lemme-gummies-glow-1795757232642-ss64ke.jpg",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/lemme-gummies-glow-1795757224104-w7ooxr.jpg",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/lemme-gummies-glow-1795757226283-nfifqa.jpg"
       ],
       "masque": false,
       "nouveaute": false,
