@@ -1,6 +1,6 @@
 {
-  "version": 380,
-  "maj": "2026-11-27T04:36:42.805Z",
+  "version": 381,
+  "maj": "2026-11-27T04:40:03.580Z",
   "surcharges": {
     "velvet-petals": {
       "prix": 15000,
@@ -2496,7 +2496,11 @@
       "prixBarre": null,
       "stock": null,
       "visuels": [
-        "/media/produits/fenty-skin-butta-drop-lait-hydratant-1.jpg"
+        "/media/produits/fenty-skin-butta-drop-lait-hydratant-1.jpg",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/fenty-skin-butta-drop-lait-hydratant-1795754360754-1xevom.jpg",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/fenty-skin-butta-drop-lait-hydratant-1795754362875-k2qrnl.jpg",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/fenty-skin-butta-drop-lait-hydratant-1795754364638-m81jg0.jpg",
+        "https://raw.githubusercontent.com/ABDOUL465/nadeya-catalogue/main/donnees/photos/fenty-skin-butta-drop-lait-hydratant-1795754366415-taplyc.jpg"
       ],
       "masque": false,
       "nouveaute": false,
